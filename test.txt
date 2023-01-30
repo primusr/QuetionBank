@@ -1,0 +1,150 @@
+1. JavaScript is the programming language of the _____.
+a) Desktop
+b) Mobile
+*c) Web
+d) Server
+
+2. Which type of JavaScript language is _____?
+a) Object-oriented
+*b) Object-based
+c) Functional programming
+d) All of the above
+
+3. Which of the following statement(s) is true about the JavaScript?
+*a) It is a scripting language used to make the website interactive
+b) It is an advanced version of Java for Desktop and Mobile application development
+c) It is a markup language of Java to develop the webpages
+d) All of the above
+
+4. In which HTML element, we put the JavaScript code?
+a) &lt;javascript&gt;...&lt;/javascript&gt;
+b) &lt;js&gt;...&lt;/js&gt;
+*c) &lt;script&gt;...&lt;/script&gt;
+
+5. JavaScript code can be written in ____.
+a) JavaScript file (.js file)
+b) HTML document directly
+*c) JavaScript file and in HTML document directly
+d) In style sheets (.css file)
+
+6. Which symbol is used separate JavaScript statements?
+a) Comma (,)
+b) Colon (:)
+c) Hyphen (_)
+*d) Semicolon (;)
+
+7. JavaScript ignores?
+a) newlines
+b) tabs
+c) spaces
+*d) All of the above
+
+8. Which is the correct syntax to call an external JavaScript file in the current HTML document?
+*a) &lt;script src="jsfile.js"&gt;&lt;/script&gt;
+b) &lt;script href=" jsfile.js"&gt;&lt;/script&gt;
+c) &lt;import src=" jsfile.js"&gt;&lt;/import&gt;
+d) &lt;script link=" jsfile.js"&gt;&lt;/script&gt;
+
+9. Which JavaScript method is used to access an HTML element by id?
+a) getElementById()
+b) getElement(id)
+*c) getElementById(id)
+d) elementById(id)
+
+10. Which property is used to define the HTML content to an HTML element with a specific id?
+a) innerText
+b) innerContent
+c) elementText
+*d) innerHTML
+
+11. Which JavaScript method is used to write HTML output?
+*a) document.write()
+b) document.output()
+c) console.log()
+d) document.writeHTML()
+
+12. Which JavaScript method is used to write on browser's console?
+a) console.write()
+b) console.output()
+*c) console.log()
+d) console.writeHTML()
+
+13. Which JavaScript method is used to write into an alert box?
+a) window.alertHTML()
+*b) window.alert()
+c) window.alertBox()
+d) window.alertContent()
+
+14. Which is the correct JavaScript statement to display "Hello Boss!" into an alert box?
+a) alert("Hello Boss!");
+b) alert('Hello Boss!');
+c) alert(Text:'Hello Boss!');
+*d) Both A. and B.
+
+15. Which is the correct JavaScript statement to print the addition of two numbers 10 and 20 in a paragraph whose id is 'result'?
+*a) getElementById("result").innerHTML = 10+20;
+b) getElementById("result").innerHTML = "10+20";
+c) getElementById("&#35;result").innerHTML = 10+20;
+d) All of the above
+
+16. What is the use of this JavaScript statement? &lt;button onclick="window.print()"&gt;Submit&lt;/button&gt;
+a) It will write "Submit" on the current Window
+*b) It will print the content of the current page
+c) It will write the content of the current page in the browser’s console
+d) None of the above
+
+17. In JavaScript, single line comment begins with ___.
+a) &#35;
+b) /*
+c) $
+*d) //
+
+18. In JavaScript, multi-line comments start with __ and end with ___.
+*a) /* and */
+b) &lt;!—and --&gt;
+c) &#35;&#35; and &#35;&#35;
+d) // and //
+
+19. Which JavaScript keyword is used to declare a variable?
+a) Var
+*b) var
+c) Let
+d) All of the above
+
+20. How many keywords are there in JavaScript to declare variables or constants?
+a) 1
+b) 2
+*c) 3
+d) 4
+
+21. What is the main difference between var and let keywords in JavaScript?
+a) var defines a variable while let defines a constant
+b) var defined function scoped variable while let define block scoped variable
+*c) The value of a variable declared with var can be changed while the value of a variable declared with let cannot be changed
+d) All of the above
+
+22. The const keyword is used to define a ______.
+a) Function scopes variable
+b) Block scoped variable
+*c) Constant
+d) Constant with no initial value
+
+23. Which is the correct syntax to declare a constant in JavaScript?
+a) const constant_name;
+b) constant_name const;
+c) constant_name const = value;
+*d) const constant_name = value;
+
+24. What will be the value of VALUE?
+
+    <code>
+	&lt;script&gt;<br>
+	const VALUE = 10;<br>
+	VALUE = 20;<br>
+	&lt;/script&gt;<br>
+    </code>
+
+a) 10
+b) 20
+c) ValueError
+*d) TypeError
