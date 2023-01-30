@@ -1,0 +1,10 @@
+1. Make a list of human factors to consider when building a Web site.
+2. Make a list of technical factors to consider when building a Web site.
+3. What design guidelines will you follow to ensure compatibility?
+4. How does browser caching aff ect Web design?
+5. How do multiple screen resolutions aff ect Web design?
+6. List three technology constraints that can affect the way a user views your Web site’s content.
+7. Name two inconsistencies that can cause broken links when you upload your files to a Web server.
+8. Why should you never specify an absolute path in partial URLs?
+9. List two benefits of diagramming your site before you start coding.
+10. How does a Web site become live?

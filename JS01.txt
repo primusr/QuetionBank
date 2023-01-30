@@ -1,0 +1,665 @@
+1. JavaScript is the programming language of the _____.
+a) Desktop
+b) Mobile
+*c) Web
+d) Server
+
+2. Which type of JavaScript language is _____?
+a) Object-oriented
+*b) Object-based
+c) Functional programming
+d) All of the above
+
+3. Which of the following statement(s) is true about the JavaScript?
+*a) It is a scripting language used to make the website interactive
+b) It is an advanced version of Java for Desktop and Mobile application development
+c) It is a markup language of Java to develop the webpages
+d) All of the above
+
+4. In which HTML element, we put the JavaScript code?
+a) <javascript>...</javascript>
+b) <js>...</js>
+*c) <script>...</script>
+
+5. JavaScript code can be written in ____.
+a) JavaScript file (.js file)
+b) HTML document directly
+*c) JavaScript file and in HTML document directly
+d) In style sheets (.css file)
+
+6. Which symbol is used separate JavaScript statements?
+a) Comma (,)
+b) Colon (:)
+c) Hyphen (_)
+*d) Semicolon (;)
+
+7. JavaScript ignores?
+a) newlines
+b) tabs
+c) spaces
+*d) All of the above
+
+8. Which is the correct syntax to call an external JavaScript file in the current HTML document?
+*a) <script src="jsfile.js"></script>
+b) <script href=" jsfile.js"></script>
+c) <import src=" jsfile.js"></import>
+d) <script link=" jsfile.js"></script>
+
+9. Which JavaScript method is used to access an HTML element by id?
+a) getElementById()
+b) getElement(id)
+*c) getElementById(id)
+d) elementById(id)
+
+10. Which property is used to define the HTML content to an HTML element with a specific id?
+a) innerText
+b) innerContent
+c) elementText
+*d) innerHTML
+
+11. Which JavaScript method is used to write HTML output?
+*a) document.write()
+b) document.output()
+c) console.log()
+d) document.writeHTML()
+
+12. Which JavaScript method is used to write on browser's console?
+a) console.write()
+b) console.output()
+*c) console.log()
+d) console.writeHTML()
+
+13. Which JavaScript method is used to write into an alert box?
+a) window.alertHTML()
+*b) window.alert()
+c) window.alertBox()
+d) window.alertContent()
+
+14. Which is the correct JavaScript statement to display "Hello Boss!" into an alert box?
+a) alert("Hello Boss!");
+b) alert('Hello Boss!');
+c) alert(Text:'Hello Boss!');
+*d) Both A. and B.
+
+15. Which is the correct JavaScript statement to print the addition of two numbers 10 and 20 in a paragraph whose id is 'result'?
+*a) getElementById("result").innerHTML = 10+20;
+b) getElementById("result").innerHTML = "10+20";
+c) getElementById("#result").innerHTML = 10+20;
+d) All of the above
+
+16. What is the use of this JavaScript statement? <button onclick="window.print()">Submit</button>
+a) It will write "Submit" on the current Window
+*b) It will print the content of the current page
+c) It will write the content of the current page in the browser’s console
+d) None of the above
+
+17. In JavaScript, single line comment begins with ___.
+a) #
+b) /*
+c) $
+*d) //
+
+18. In JavaScript, multi-line comments start with __ and end with ___.
+*a) /* and */
+b) <!—and -->
+c) ## and ##
+d) // and //
+
+19. Which JavaScript keyword is used to declare a variable?
+a) Var
+*b) var
+c) Let
+d) All of the above
+
+20. How many keywords are there in JavaScript to declare variables or constants?
+a) 1
+b) 2
+*c) 3
+d) 4
+
+21. What is the main difference between var and let keywords in JavaScript?
+a) var defines a variable while let defines a constant
+b) var defined function scoped variable while let define block scoped variable
+*c) The value of a variable declared with var can be changed while the value of a variable declared with let cannot be changed
+d) All of the above
+
+22. The const keyword is used to define a ______.
+a) Function scopes variable
+b) Block scoped variable
+*c) Constant
+d) Constant with no initial value
+
+23. Which is the correct syntax to declare a constant in JavaScript?
+a) const constant_name;
+b) constant_name const;
+c) constant_name const = value;
+*d) const constant_name = value;
+
+24. What will be the value of VALUE?
+<script>
+	const VALUE = 10;
+	VALUE = 20;
+</script>
+
+a) 10
+b) 20
+c) ValueError
+*d) TypeError
+
+25. What is the default value of an uninitialized variable?
+a) 0
+*b) undefined
+c) null
+d) NaN
+
+26. What is the output of the following JavaScript code?
+<script>
+	var a;
+	document.getElementById("demo").innerHTML = a+1;
+</script>
+a) 0
+b) undefined
+c) 1
+*d) NaN
+
+27. Can be redeclare a variable that is declared with var keyword?
+*a) Yes
+b) No
+
+28. What is the output of the following JavaScript code?
+<script>
+	var name = "Alex" + " " + "Alvin";
+	document.getElementById("demo").innerHTML = name;
+</script>
+
+*a) lex Alvin
+b) AlexAlvin
+c) TypeError
+d) ValueError
+
+29. What is the output of the following JavaScript code?
+<script>
+	var a = 10 + 20 + "5";
+	document.getElementById("demo").innerHTML = a;
+</script>
+a) 35
+*b) 305
+c) TypeError
+d) ValueError
+
+30. Can be redeclare a variable that is declared with let keyword?
+a) Yes
+*b) No
+
+31. What is the output of the following JavaScript code (let example)?
+<script>
+	let a = 10;
+	let a = 0;
+</script>
+a) 10
+b) 0
+*c) SyntaxError
+d) TypeError
+
+32. Which is the exponentiation operator in JavaScript?
+a) exp()
+b) ^
+*c) **
+d) pow
+
+33. Does JavaScript support increment (++) and decrements (--) Operators?
+*a) Yes
+b) No
+
+34. What will be the output of the following JavaScript code?
+<script>
+	var x = 5;
+	document.getElementById("demo").innerHTML = x--;
+</script>
+a) 5
+*b) 4
+c) TypeError
+d) ValueError
+
+35. What will be the output of the following JavaScript code?
+<script>
+	var x = 10 + 20 * 5;
+	document.getElementById("tes").innerHTML = x;
+</script>
+*a) 10
+b) 150
+c) TypeError
+d) ValueError
+Answer: A) 110
+
+36. What will be the output of the following JavaScript code?
+<script>
+	var x = (10 + 20) * 5;
+	document.getElementById("tes").innerHTML = x;
+</script>
+a) 110
+*b) 150
+c) TypeError
+d) ValueError
+
+37. JavaScript types are _____.
+a) Static
+*b) Dynamic
+
+38. JavaScript arrays are written with _____.
+a) round brackets ()
+b) curly brackets {}
+c) double quotes ""
+*d) square brackets []
+
+39. JavaScript objects are written with _____.
+a) round brackets ()
+*b) curly brackets {}
+c) double quotes ""
+d) square brackets []
+
+40. Which JavaScript operator is used to determine the type of a variable?
+*a) typeof
+b) TypeOf
+c) typeOf
+d) sizeof
+
+41. Which is the correct syntax of JavaScript typeof operator?
+a) typeof variable/value
+b) typeof(variable/value)
+*c) Both A. and B.
+d) None of the above
+
+42. What will be the output of the following JavaScript code?
+<script>
+	var x = 12.34;
+	document.getElementById("test").innerHTML = typeof(x);
+</script>
+a) int
+b) float
+c) long
+*d) number
+
+43. Which keyword is used to define a JavaScript function?
+a) module
+b) fun
+c) func
+*d) function
+
+44. Which is the correct syntax for the function definition?
+a) return_type function function_name(parameter1, parameter2, ...) { /*Function's body*/ }
+*b) function function_name(parameter1, parameter2, ...) { /*Function's body*/ }
+c) return_type function_name(parameter1, parameter2, ...) { /*Function's body*/ }
+d) function function_name(parameter1, parameter2, ...) as return_type { /*Function's body*/ }
+
+45. What will be the output of the following JavaScript code?
+<script>
+	function addition(a, b) {
+		return a+b;
+	}
+	document.getElementById("test").innerHTML = addition;
+</script>
+a) SyntaxError
+b) ValueError
+c) 0
+*d) function addition(a, b) { return a+b; }
+
+46. Can we use a function as a variable value?
+*a)Yes
+b) No
+
+47. In JavaScript a variable contains one value while an object may contain ___.
+a) One value
+b) Two values
+c) Three values
+*d) Many values
+
+48. Which is the correct syntax to access an object property in JavaScript?
+a) objectName:propertyName
+b) propertyName
+c) objectName["propertyName"]
+*d) Both B. and C.
+
+49. Which property is used to get the length of a string in JavaScript?
+a) strlen
+b) len
+*c) length
+d) Length
+
+50. What will be the output of the following JavaScript code?
+<script>
+	let str = "IncludeHelp";
+	document.getElementById("test").innerHTML = str.length;
+</script>
+*a) 11
+b) 12
+c) ValueError
+d) SyntaxError
+
+51. Which character is used to break up a code line within a text string in JavaScript?
+a) Single quote (')
+*b) Single backslash (\)
+c) Double quote (")
+d) Tipple single quote (''')
+
+52. Will the following JavaScript code work?
+<script>
+	document.getElementById("test").innerHTML = \
+	"Hello, IncludeHelp!";
+</script>
+a) Yes
+*b) No
+
+53. Which is the correct JavaScript statement to define string as object?
+*a) var s = new String("IncludeHelp!");
+b) var s = String("IncludeHelp!");
+c) var s = "IncludeHelp!"
+d) All of the above
+
+54. What will be the output of the following JavaScript code?
+<script>
+	let str1 = new String("IncludeHelp!");
+	let str2 = new String("IncludeHelp!");
+	document.getElementById("test").innerHTML = (str1==str2);
+</script>
+a) true
+*b) false
+c) True
+d) False
+
+55. Which is/are the valid JavaScript method(s) to extract string parts?
+a) slice(start, end)
+b) substring(start, end)
+c) substr(start, length)
+*d) All of the above
+
+56. What will be the output of the following JavaScript code?
+<script>
+    let x = "Hello, IncludeHelp!";
+    document.getElementById("test").innerHTML = x.slice(-13,-1);
+</script>
+a) IncludeHelp!
+*b) IncludeHelp
+c) ValueError
+d) Hello,
+
+57. In JavaScript, the string template literals use ____ rather than the quotes ("") to define a string?
+a) Single quotes ('')
+b) Backslash with single quote (\’'\')
+c) Backslashes (\\)
+*d) Back-ticks (``)
+
+58. Does the following JavaScript variable definition is correct? let x = `I'm "David!"`;
+*a) Yes
+b) No
+
+59. Which JavaScript method is used to get a number as a string?
+*a) toString()
+b) intToString()
+c) parseInteger()
+d) All of the above
+
+60. What will be the output of the following JavaScript code?
+<script>
+    const myArray = ['h', 'e', 'l', 'l', 'o'];
+    document.write(myArray[0]);
+    document.write(myArray[1]);
+</script>
+*a) he
+b) undefinedh
+c) ValueError
+d) TypeError
+
+61. What will be the output of the following JavaScript code?
+<script>
+    let cars = ['Honda', 'Hyundai'];
+    cars.push('Mahindra');
+    document.write(typeof cars + " " + cars);
+</script>
+a) array Honda,Hyundai,Mahindra
+b) string Honda,Hyundai,Mahindra
+*c) object Honda,Hyundai,Mahindra
+d) object "Honda", "Hyundai", "Mahindra"
+
+62. What will be the output of the following JavaScript code?
+<script>
+    let cars1 = ['Honda', 'Hyundai'];
+    let cars2 = cars1;
+    
+    cars1.push('Mahinda');
+    
+    document.write(cars1 + "---" + cars2);
+</script>
+a) Honda,Hyundai,Mahinda---Honda,Hyundai
+*b) Honda,Hyundai,Mahinda---Honda,Hyundai,Mahinda
+c) Honda,Hyundai ---Honda,Hyundai
+d) [Honda,Hyundai,Mahinda]---[Honda,Hyundai,Mahinda]
+
+63. What will be the output of the following JavaScript code?
+<script>  
+	var msgs=new Array("Hello","Hey","Morning!");  
+
+	for (i=0;i<msgs.length;i++){  
+		document.write(msgs[i] + " | ");  
+	}
+</script>
+*a) Hello | Hey | Morning! |
+b) Hello | Hey |
+c) ValueError
+d) TypeError
+
+64. What will be the output of the following JavaScript code?
+<script>
+	var values = [10, 20, 30, 40];
+	
+	var result = values.reduceRight(function(x,y){
+		return (x + y);
+	});
+	
+	document.write("Result: " + result);
+</script>
+a) Result: 40
+b) Result: 70
+c) Result: 90
+*d) Result: 100
+
+65. What will be the output of the following JavaScript code?
+<script>
+	var cars = ["Honda","Hyundai","Mahindra"];
+	
+	var result = cars.shift();
+	
+	document.writeln("Result: ", cars);
+</script>
+a) Result: Honda,Hyundai,Mahindra
+b) Result: Honda
+*c) Result: Hyundai,Mahindra
+d) Result: Honda,Mahindra
+
+66. What will be the output of the following JavaScript code?
+<script>
+	var cars = ["Honda","Hyundai","Mahindra"];
+
+	var result = cars.unshift("Toyota", "Tata");
+
+	document.writeln("[", result, "] ", cars);
+</script>
+*a) [5] Toyota,Tata,Honda,Hyundai,Mahindra
+b) [5]Honda,Hyundai,Mahindra,Toyota,Tata
+c) [2] Toyota,Tata
+d) [5] Honda,Hyundai,Toyota,Tata,Mahindra
+
+67. Which JavaScript method is used to call a function (a callback function) once for each array element?
+a) for()
+b) traverse()
+*c) forEach()
+d) foreach()
+
+68. What will be the output of the following JavaScript code?
+<script>
+	const arr = [10, 20, 30];
+	let result = 0;
+	
+	arr.forEach(myFunction);
+	
+	document.write("Result: " , result)
+	function myFunction(value, index, array) {
+	  result += value; 
+	}
+</script>
+*a) Result: 60
+b) Result: 102030
+c) Result: 10,20,30
+d) ValueError
+
+
+69. What will be the output of the following JavaScript code?
+<script>
+	const values = [10, 20, 30];
+	const result = values.map(myFunction);
+
+	document.write("Result: ", result);
+
+	function myFunction(value, index, array) {
+	  return value * value;
+	}
+</script>
+a) Result: 10,20,30
+b) Result: 10*10,20*20,30*30
+*c) Result: 100,400,900
+d) ValueError
+
+70. Which JavaScript method is used to create a new array with array elements that passes a test?
+a) forEach()
+b) map()
+c) forMap()
+*d) filter()
+
+71. Which JavaScript object works with the dates?
+*a) Date
+b) DateTime
+c) date
+d) dateTime
+
+72. Which JavaScript statement(s) is correct to create Date object(s) with new Date() constructor?
+a) new Date()
+b) new Date(year, month, day, hours, minutes, seconds, milliseconds)
+c) new Date(milliseconds)
+d) new Date(date string)
+*e) All of the above
+
+73. What will be the output of the following JavaScript code?
+<script>
+	const curr = new Date();
+	document.write(curr);
+</script>
+a) Tue Dec 21 2021 13:04:36 GMT+0530
+b) Tue Dec 21 2021 13:04:36 (India Standard Time)
+c) Tue Dec 21 2021 13:04:36::00::01 GMT+0530 (India Standard Time)
+*d) Tue Dec 21 2021 13:04:36 GMT+0530 (India Standard Time)
+
+74. Which JavaScript method is used to convert a date to a UTC string (a date display standard)?
+*a) toUTCString()
+b) toUtcString()
+c) utcString()
+d) toutcstring()
+
+75. The internal clock in JavaScript counts from midnight _____.
+a) January 1, 1972
+b) January 1, 1947
+c) January 1, 1980
+*d) January 1, 1970
+
+76. What does the Date object's method getTime() return?
+a) Date in DD-MM-YYYY format
+b) Date in DD MON YYYY format
+c) Date in MON, DD YYYY format
+*d) Number of milliseconds since January 1, 1970
+
+77. Which method is used to get the year of a date as a four-digit number?
+a) getYear()
+b) fullYear()
+*c) getFullYear()
+d) getfullyear()
+
+78. What will be the output of the following JavaScript code?
+<script>
+	document.write(Math.round(107.5))
+</script>
+a) 107.5
+b) 107
+*c) 108
+d) 107.00
+
+79. What will be the output of the following JavaScript code?
+<script>
+try{
+	const cars = {  
+		company: 'Honda'
+	};  
+
+	delete cars.company;
+	document.write(cars.company);  
+}
+catch (err){
+	document.write(err.message);
+}
+</script>
+*a) undefined
+b) Honda
+c) ValueError
+d) TypeError
+
+80. What will be the output of the following JavaScript code?
+<script>
+try{
+    const cars = {  
+        company: 'Honda'
+    };  
+    
+    Object.seal(cars);
+    delete cars.company;
+    document.write(cars.company);  
+}
+catch (err){
+    document.write(err.message);
+}
+</script>
+a) undefined
+*b) Honda
+c) ValueError
+d) TypeError
+
+81. What will be the output of the following JavaScript code?
+<script>
+    let x = "10";
+    let y = + x;
+    
+    document.write(typeof y);
+</script>
+a) string
+b) object
+c) undefined
+*d) number
+
+82. What will be the output of the following JavaScript code?
+<script>
+    let x = 10;
+    
+    document.write(typeof x, " , ", typeof String(x));
+</script>
+*a) number , string
+b) number , number
+c) object , string
+d) object , object
+
+83. What will be the output of the following JavaScript code?
+<script>
+    let x = 10;
+    
+    document.write(x, " , ", toString(x));
+</script>
+a) 10 , 10
+b) 10 , undefined
+*c) 10 , [object Undefined]
+d) None of the above

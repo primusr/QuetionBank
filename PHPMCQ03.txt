@@ -1,0 +1,41 @@
+Quiz Title: PHP echo and print Statements
+
+1. Which statement is faster echo or print?
+*a) echo
+b) print
+
+2. What is the correct syntax of echo statement in PHP?
+a) echo
+b) echo()
+c) echo = ()
+*d) Both A. and B.
+
+3. There is a variable "name" that contains the name of a person, which is/are the correct echo statement(s) to print the "name" suffix with "Hello".
+a) echo "Hello $name";
+b) echo "Hello " . $name;
+c) echo ("Hello $name");
+*d) All of the above
+
+4. What is the correct syntax of print statement in PHP?
+a) print
+b) print()
+c) print = ()
+*d) Both A. and B.
+
+5. There is a variable "name" that contains the name of a person, which is/are the correct print statement(s) to print the "name" suffix with "Hello".
+a) print "Hello $name";
+b) print "Hello " . $name;
+c) print ("Hello $name");
+*d) All of the above
+
+6. What will be the output of the following PHP code?
+*a) 5, 10+10
+b) 5, 20
+c) 5 10+10
+d) 5 20
+
+7. What will be the output of the following PHP code?<?phpvar_dump (print "Hello");?>
+a) Helloint(5)
+b) Helloint(6)
+*c) Helloint(1)
+d) Hellonumber(5)

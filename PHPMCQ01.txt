@@ -1,0 +1,59 @@
+Quiz Title: PHP Basics MCQs
+
+1. PHP is an acronym for ____.
+a) Prefix Hypertext Preprocessor
+b) Prototype Hypertext Preprocessor
+c) Hypertext Preprocessor
+*d) PHP: Hypertext Preprocessor
+
+2. Which is/are statement(s) true about PHP?
+a) It is an open-source scripting language
+b) PHP scripts execute on the server
+c) It is used for developing dynamic & interactive websites
+*d) All of the above
+
+3. What is the extension of a PHP file?
+*a) .php
+b) .ph
+c) .phpfile
+d) All of the above
+
+4. Who developed PHP?
+a) Guido van Rossum
+*b) Rasmus Lerdorf
+c) Jesse James Garrett
+d) Douglas Crockford
+
+5. In which year PHP was developed?
+a) 1993
+*b) 1994
+c) 1995
+d) 1996
+
+6. A PHP script starts with ____ and ends with ___.
+*a) <?php and ?>
+b) <php> and </php>
+c) <?php and /?php>
+d) </php and />
+
+7. PHP keywords are case-sensitive?
+a) Yes
+*b) No
+
+8. Single line comments can be placed in PHP script by using which symbol?
+a) //
+b) #
+c) $
+*d) Both A. and B.
+
+9. Multi-line comments can be written within the ____.
+a) // and //
+b) ## and ##
+*c) /* and */
+d) /// and ///
+
+10. PHP statements end with a ______.
+*a) semicolon (;)
+b) colon (:)
+c) dot (.)
+d) comma (,)

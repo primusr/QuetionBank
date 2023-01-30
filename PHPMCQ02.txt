@@ -1,0 +1,121 @@
+Quiz Title: PHP Variables, Variable Scopes MCQs
+
+1. Which sign is used to declare variables in PHP?
+a) @
+b) &
+*c) $
+d) _
+
+2. Which is not a valid variable name in PHP?
+a) age
+b) _age
+c) PersonAge
+*d) 1age
+
+3. Are variable names case-sensitive?
+*a) Yes
+b) No
+
+4. Which statement is commonly used for PHP output?
+a) write
+b) php.write
+c) log
+*d) echo
+
+5. How many variable scopes are there in PHP?
+a) 1
+b) 2
+*c) 3
+d) 4
+
+6. Which is not a valid variable scope in PHP?
+a) local
+b) global
+c) static
+*d) external
+
+7. A variable declared outside a function has a ____.
+a) local scope
+*b) global scope
+
+8. What will be the output of the following PHP code?<?php $x = 5; function myFunction(){echo "Result $x";} myFunction(); ?>
+a) Result $x
+b) Result 5
+*c) Result
+d) None of the above
+
+9. What will be the output of the following PHP code?<?php function myFunction() {$x = 5; echo "Result1: $x , ";} myFunction(); echo "Result2: $x"; ?>
+*a) Result1: 5 , Result2:
+b) Result1: 5 , Result2: 0
+c) Result1: 5 , Result2: 5
+d) None of the above
+
+10. Which PHP keyword is used to access a global variable inside the function?
+a) php_ global
+*b) global
+c) global_variable
+d) globalscope
+
+11. There are two variables a, b which declared in global scope, which is the correct PHP statement to access them within a function?
+*a) global $a, $b;
+b) global $a $b;
+c) global ($a, $b);
+d) php_global $a, $b;
+
+12. What is the name of an array that stores all global variables in PHP?
+a) $GLOBAL[]
+b) $global[]
+*c) $GLOBALS[]
+d) $PHP_GLOBALS[]
+
+13. In the syntax of $GLOBALS[index], what does "index" hold?
+a) Index (starting from 0) of the variable
+b) Index (starting from 1) of the variable
+*c) Name of the variable
+d) Line number of the variable where the variable was declared
+
+14. What will be the output of the following PHP code 1?
+a) 000
+b) 111
+c) 011
+*d) 012
+
+15. Which statement is faster echo or print?
+*a) echo
+b) print
+
+16. What is the correct syntax of echo statement in PHP?
+a) echo
+b) echo()
+c) echo = ()
+*d) Both A. and B.
+
+17. There is a variable "name" that contains the name of a person, which is/are the correct echo statement(s) to print the "name" suffix with "Hello".
+a) echo "Hello $name";
+b) echo "Hello " . $name;
+c) echo ("Hello $name");
+*d) All of the above
+
+18. What is the correct syntax of print statement in PHP?
+a) print
+b) print()
+c) print = ()
+*d) Both A. and B.
+
+19. There is a variable "name" that contains the name of a person, which is/are the correct print statement(s) to print the "name" suffix with "Hello".
+a) print "Hello $name";
+b) print "Hello " . $name;
+c) print ("Hello $name");
+*d) All of the above
+
+20. What will be the output of the following PHP codea?
+*a) 5, 10+10
+b) 5, 20
+c) 5 10+10
+d) 5 20
+
+21. What will be the output of the following PHP code?
+a) Helloint(5)
+b) Helloint(6)
+*c) Helloint(1)
+d) Hellonumber(5)

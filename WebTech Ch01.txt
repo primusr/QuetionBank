@@ -1,0 +1,86 @@
+cookie
+cache
+rendering engine
+Cascading Style Sheets (CSS)
+cache
+Hypertext Markup Language (HTML)
+Document Type Definition (DTD)
+hypertex
+active white space
+root element
+markup language
+metadata
+Multipurpose Internet Mail Extensions (MIME)
+deprecated element
+Document Type (doctype)
+
+1. A style language, created by theW3C, that allows complete specifi cations of style for HTML documents. 
+2. A small piece of text-based data that a Web page stores on the user’s machine
+3. An element that the W3C has identified as obsolete.
+4. The section of an HTML document that specifies the rules for the document language so the browser knows how to interpret the HTML code and display it properly.
+5. A set of rules that contains all the elements, attributes, and usage rules for the markup language you are using.
+6. A nonlinear way of organizing information. You can skip from one related topic to another, fi nd the information that interests you, and then return to your starting point or move on to another related topic of interest.
+7. The markup language that defines the structure and display properties of a Web page
+8. A structured language that lets you identify common elements of a document such as headings, paragraphs,and lists.
+9. Information about the document itself, such as how to present the document, or what other documents are related to the current one, such as style sheets.
+10. Originally a standard for e-mail, now defines content types for the Web. It determines the type of document presented in an HTML file.
+11. A program contained in every browser that interprets the markup tags in an HTML file and displays the results in the browser.
+12. The container element for all other elements in the document.
+13. White space used deliberately as an integral part of your design that provides structure and separates content.
+14. The browser’s temporary storage area for Web pages and images.
+15. The blank area that borders the screen or is the result of mismatched shapes in a layout.
+
+active white space
+White space used deliberately as an integral part of your design that provides structure and separates content.
+cache
+The browser’s temporary storage area for Web pages and images.
+fixed-width page layout
+A Web page layout that allows the designer to control the look of the Web pages as if it were a printed page, with consistent width and height.
+flexible page layout
+A Web page layout designed to adapt to different screen resolutions. Also called fluid layout.
+grid
+A layout device that organizes the Web page, providing visual consistency.
+passive white space
+The blank area that borders the screen or is the result of mismatched shapes in a layout.
+screen resolution
+The width and height of the computer screen in pixels
+
+
+audience definition
+A profile of your average user.
+complete URL
+An address of documents and other resources on the Web that includes the protocol the browser uses to access the file, service, domain name, the relative path, and the filename.
+extranet
+A private part of a company’s intranet that uses the Internet to securely share part of an organization’s information.
+File Transfer Protocol (FTP)
+A standard communications protocol for transferring fi les over the Internet.
+freeware
+Programs available free of charge or with an optional donation fee.
+Internet service provider (ISP)
+A company that provides Internet access and Web site hosting services to individuals and organizations.
+intranet
+A private collection of networks contained within an organization. 
+page view
+The number of times a Web page is viewed by a user.
+partial URL
+A Uniform Resource Locator (URL) that omits the protocol and server name and only specifies the path to the file relative to one another on the same server.
+requirements
+The list of customer needs for a Web site, such as search capability, tabbed menu navigation, specific color and branding requirements, or anything else that will create the desired outcome for the site.
+Secure Sockets Layer (SSL)
+Communications software that allows transmission of encrypted secure messages over the Internet.
+shareware
+Software that is distributed free so users can try it before they buy it. Users then can register the software for a relatively small fee compared to software produced commercially.
+site specification
+The design document for your Web site.
+Structured Query Language (SQL)
+A programming language that lets you select information from a database.
+taxonomy
+A classifi cation and naming of content in a hierarchical structure.
+Uniform Resource Locator (URL)
+The global address of documents and other resources on the Web.
+Web analytics
+The analysis of statistics that are gathered by Web servers.
+Web server
+A computer connected to the Internet that runs server software. The software lets the computer use the Hypertext Transfer Protocol (HTTP) to serve HTML fi les to Web browser clients.
+wireframe
+Web page mockups that represent page layouts for a Web site

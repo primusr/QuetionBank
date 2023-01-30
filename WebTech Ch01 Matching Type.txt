@@ -1,0 +1,17 @@
+cookie, cache, rendering engine, Cascading Style Sheets (CSS), cache, HTML, Document Type Definition (DTD), hypertext, active white space, root element, markup language, metadata, Multipurpose Internet Mail Extensions (MIME), deprecated element, Document Type (doctype)
+
+1. A style language, created by theW3C, that allows complete specifi cations of style for HTML documents. 
+2. A small piece of text-based data that a Web page stores on the user’s machine
+3. An element that the W3C has identified as obsolete.
+4. The section of an HTML document that specifies the rules for the document language so the browser knows how to interpret the HTML code and display it properly.
+5. A set of rules that contains all the elements, attributes, and usage rules for the markup language you are using.
+6. A nonlinear way of organizing information. You can skip from one related topic to another, fi nd the information that interests you, and then return to your starting point or move on to another related topic of interest.
+7. The markup language that defines the structure and display properties of a Web page
+8. A structured language that lets you identify common elements of a document such as headings, paragraphs,and lists.
+9. Information about the document itself, such as how to present the document, or what other documents are related to the current one, such as style sheets.
+10. Originally a standard for e-mail, now defines content types for the Web. It determines the type of document presented in an HTML file.
+11. A program contained in every browser that interprets the markup tags in an HTML file and displays the results in the browser.
+12. The container element for all other elements in the document.
+13. White space used deliberately as an integral part of your design that provides structure and separates content.
+14. The browser’s temporary storage area for Web pages and images.
+15. The blank area that borders the screen or is the result of mismatched shapes in a layout.

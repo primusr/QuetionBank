@@ -1,0 +1,121 @@
+Quiz Title: Javasctipt MCQ
+
+1. The "var" and "function" are known as _____________.
+a) Data types
+b) Keywords
+c) Prototypes
+*d) Declaration statements
+
+2. Which of these is the correct way in which we can call the JavaScript code?
+a) Triggering Event
+b) Preprocessor
+*c) Function/Method
+d) RMI
+
+3. Which of these functions of the Number Object would format a number with different numbers of digits to the decimal’s right?
+*a) toFixed()
+b) toExponential()
+c) toLocaleString()
+d) toPrecision()
+
+4. Out of the following functions of the string object, which one would return the character in any string via the specified number of characters starting at a specified position?
+a) search()
+*b) substr()
+c) split()
+d) slice()
+
+5. Look at the snippets given below and check the one in which the variable "a" isn’t equal to the "NULL".
+a) if (a!)
+b) if(a!=null)
+*c) if(a!==null)
+d) if(a!null)
+
+6. In JavaScript, what do we use for calling the expression for function definition?
+*a) Function literal
+b) Function prototype
+c) Function declaration
+d) Function calling
+
+7. Which of these is used in JavaScript for calling a method or a function?
+a) Functional Expression
+b) Property Access Expression
+c) Primary Expression
+*d) Invocation Expression
+
+8. Which of these operators are used for checking if a specific property exists?
+*a) in
+b) within
+c) exist
+d) exists
+
+9. "The expression that can appear legally on an assignment expression’s left side" is a common explanation for variables, elements of arrays, and properties of objects. These are known as __________:
+a) Prototypes
+b) Properties
+*c) Lvalue
+d) Definition
+
+10. Which of these is a correct output for the JavaScript code given below?string X="Hey";string Y="There";alert(X+Y);
+a) Hey There
+b) Hey_There
+*c) HeyThere
+d) undefined
+
+11. Which of these is known as the Equality operator used for checking whether both the values are equal?
+a) =
+*b) ==
+c) ===
+d) &&
+
+12. In case a value of an operator is NULL, then the unary operator would return the ____________ typeof.
+a) object
+b) boolean
+c) string
+*d) undefined
+
+13. Which of these is not a keyword?
+a) debugger
+*b) use strict
+c) with
+d) if
+
+14. Which of these symbols is used to create comments in JavaScript?
+*a) //
+b) \\
+c) \* */
+d) \* *\
+
+15. In the line of code given below, what will the "datatype" written in brackets be called?article[datatype]=assignment_value;
+a) An object
+*b) A String
+c) Floating point
+d) An integer
+
+16. In the line of code given below, the prototype represents the _____________. functionx(){};
+*a) Prototype of a function
+b) Function x
+c) Not valid
+d) A custom constructor
+
+17. Which of these methods or operators are used for identifying an array?
+*a) isarrayType()
+b) ===
+c) ==
+d) Typeof
+
+18. A function’s execution would stop whenever a program control would encounter the _________ statement in the function’s body.
+a) goto statement
+b) break statement
+c) continue statement
+*d) return statement
+
+19. Which of these codes is equivalent to the code given below? a.x(g,h);
+*a) a [ “x” ] ( g , h );
+b) x (g) &&a.x (h);
+c) x( g&&h );
+d) a (x )[ “g” , “h” ];
+
+20. Which of these keywords is used to define various functions in JavaScript?
+*a) function
+b) main
+c) init
+d) Void

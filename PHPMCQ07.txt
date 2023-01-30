@@ -1,0 +1,69 @@
+Quiz Title: PHP Loops
+
+1. How many loops are there in PHP?
+a) 2
+b) 3
+*c) 4
+d) 5
+
+2. What will be the output of the following PHP code?1
+a) 2,4,
+b) 1,2,3,4,5,
+*c) 2,4,6,
+d) 1,2,4,
+
+3. Which loop statement is used to loop through a block of code a specified number of times?
+a) while
+b) do...while
+*c) for
+d) foreach
+
+4. Which loop statement is used to loop through a block of code for each element in an array?
+a) while
+b) do...while
+c) for
+*d) foreach
+
+5. What will be the output of the following PHP code?2
+*a) BMW Mercedes Honda
+b) Honda Mercedes BMW
+c) SyntaxError
+d) TypeError
+
+6. Which PHP statement is used to jump out of a loop?
+a) exit
+*b) break
+c) continue
+d) stop
+
+7. What is the use of PHP "continue" statement?
+a) breaks the loop and transfers the control to the statement written just after the loop body
+b) breaks the all loop statement (outer loops and inner loops)
+*c) breaks one iteration of the loop and transfers the control to the next loop iteration
+d) All of the above
+
+8. What will be the output of the following PHP code?3
+*a) 1 2 3 4 5 7 8 9 10
+b) 1 2 3 4 5 6 7 8 9 10
+c) 1 2 3 4 5 6
+d) 1 2 3 4 5
+
+9. The "break" statement is used in switch and loop statements, can the "continue" statement be used in the switch statement instead of the "break" statement?
+a) Yes
+*b) No
+
+10. What will be the output of the following PHP code?4
+a) Infinite loop
+b) Error
+c) 10, 11,
+*d) No output
+
+11. Which keyword is used to define a function in PHP?
+a) def
+b) fun
+c) func
+*d) function
+
+12. The PHP function names are case-sensitive?
+*a) Yes
+b) No

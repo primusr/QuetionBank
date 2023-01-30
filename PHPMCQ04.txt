@@ -1,0 +1,53 @@
+Quiz Title: Data Types MCQs
+
+1. Which data type is not supported by PHP?
+a) Integer
+*b) Complex
+c) Float
+d) String
+
+2. String is placed within _____.
+a) Double quotes ("")
+b) Single quotes ('')
+c) Both A. and B.
+*d) None of the above
+
+3. A PHP integer data type can store values between ____.
+a) -65,536 and 65,535
+b) 0 and 4,294,967,295
+c) -(2^63) and (2^63)-1
+*d) -2,147,483,648 and 2,147,483,647
+
+4. "Array" is a data type in PHP?
+*a) Yes
+b) No
+
+5. What will be the output of the following PHP code?1
+a) boolean('true')
+b) boolean(true)
+*c) bool(true)
+d) bool('true')
+
+6. What will be the output of the following PHP code?2
+*a) array
+b) array(4)
+c) object
+d) string
+
+7. What is NULL in PHP?
+a) Value
+b) Keyword
+c) Data Type
+*d) Function
+
+8. What will be the output of the following PHP code?3
+a) Error
+b) NULL undefined
+c) NULL object
+*d) NULL NULL
+
+9. Which type is used to store the database call?
+a) object
+b) class
+*c) resource
+d) string

@@ -1,0 +1,20 @@
+1. What are the two parts of a style rule?
+2. What are the three ways to combine CSS rules with your HTML code?
+3. List two reasons to state a style using the style attribute.
+4. What are the advantages of using an external style sheet?
+5. What is the inheritance default for CSS rules?
+6. What is the benefi t of the !important declaration?
+7. Write a basic style rule that selects <h1> elements and sets the color property to red.
+8. Add the <p> element as an additional selector to the rule you created for Question 7.
+9. Add a font-size property to the rule and set the size to 14 points.
+10. Write a style rule that selects <ul> elements only when they appear within <p> elements and set the color property to red.
+11. Write the style rule for a class selector named note. Set the font-weight property to bold
+12. Restrict the rule you developed for Question 11 so it can be used only with <p> elements.
+13. What is the diff erence between <div> and <span>?
+14. Write a style rule that sets the default document text color to red.
+15. What is the advantage of working with the class attribute?
+16. What element does this selector choose?
+17. What element does this selector choose? div p *
+18. What element does this selector choose? p.warning
+19. What is the advantage of working with the id attribute?
+20. Write a style rule that applies a yellow background color to <a> elements when the user points the mouse to a hypertext link

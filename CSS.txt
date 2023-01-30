@@ -1,0 +1,436 @@
+Quiz Title: CSS MCQ
+
+1. What is CSS stands for?
+*a) Cascading Style Sheets
+b) Cascade Style Sheet
+c) Color Style Sheets
+d) Color Style Sheet
+
+2. What CSS describes?
+a) CSS describes how calculation perform on button click.
+*b) CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+c) Both A. and B.
+d) None of the above
+
+3. What is the correct syntax for referring an external CSS?
+*a) <link rel="stylesheet" type="text/css" href="mystyle.css">
+b) <stylesheet rel="stylesheet" type="text/css" href="mystyle.css">
+c) <style rel="stylesheet" type="text/css" href="mystyle.css">
+d) All of the above
+
+4. What is a CSS selector?
+a) A CSS selector is the CSS class name
+b) A CSS selector is the set of properties that are going to be applied on HTML elements
+c) A CSS selector is name of CSS file.
+*d) A CSS selector is the first part of a CSS Rule. It may an HTML element or pattern of elements.
+
+5. In a CSS file, there is a CSS rule for paragraphs tags – what does p can be called?
+*a) Selector
+b) Attribute
+c) Property
+d) Tag
+
+6. Internal styles are written within the _____ element.
+*a) <style>…</style>
+b) <css>…</css>
+c) <stylesheet>…</stylesheet>
+d) Both A. and B.
+
+7. Inline styles are written within the _____ attribute.
+*a) style
+b) css
+c) stylesheet
+d) Both A. and B.
+
+8. CSS comments are placed within the ______.
+a) //
+*b) /* and */
+c) <* and *>
+d) <! And !>
+
+9. Can comments also span multiple lines?
+*a) Yes
+b) No
+
+10. Which property is used to define the text color?
+a) text-color
+*b) color
+c) font-color
+d) Both A. and B.
+
+11. Which property is used to define the background color?
+a) bgcolor
+b) bg-color
+c) background
+*d) background-color
+
+12. From the given options which is/are the valid way to represent a color?
+a) A valid color name like "blue"
+b) HEX code like "#0000ff"
+c) RGB Value like "rgb(0,0,255)
+*d) All of the above
+
+13. Which property is used to define the font of the element's text?
+a) font
+*b) font-family
+c) font-style
+d) All of the above
+
+14. To make a text italic, which CSS property is used?
+a) font
+b) font-family
+*c) font-style
+d) All of the above
+
+15. What are the valid values of font-style property?
+a) italic, bold, bolder
+b) normal, bold, italic
+c) underline, bold, italic
+*d) inherit, italic, normal, oblique
+
+16. Why font-weight property is used?
+*a) Sets how thick or thin characters in text should be displayed.
+b) Sets the size of the font
+c) Both A. and B.
+d) None of the above
+
+
+17. What is/are the correct value(s) of font-weight property?
+a) bold, italic, underline
+b) normal, bold, italic
+*c) normal, bold, bolder, lighter, initial, and inherit
+d) None of the above
+
+18. Which is the correct inline CSS for p tag to define paragraph's text and background colors?
+a) <p css="color: red; background-color: yellow;">
+b) <p cssstyle="color: red; background-color: yellow;">
+c) <p inline="color: red; background-color: yellow;">
+*d) <p style="color: red; background-color: yellow;">
+
+19. What is the correct syntax of border property in CSS?
+*a) border: border-width border-style border-color
+b) border: border-color border-width border-style
+c) border: border-style border-width border-color
+d) All of the above
+
+20. Which of the following is the correct syntax to display the hyperlinks without any underline?
+a) a {text-decoration : underline;}
+*b) a {text-decoration : none;}
+c) a {text-decoration : block;}
+d) None of the above
+
+21. Which of the following is the correct syntax to remove the underline on hyperlinks and visited hyperlinks?
+a) a {text-decoration : underline;}, a:visited {text-decoration : underline;}
+b) a {text-decoration : block;}, a:visited {text-decoration : block;}
+*c) a {text-decoration : none;}, a:visited {text-decoration : none;}
+d) None of the above
+
+22. Which CSS property is used to style the hyperlinks on hover (Mouse over)?
+a) a:mouseover
+b) a:move
+c) a:mover
+*d) a:hover
+
+23. If you want to use a green dotted border around an image, which CSS property is used for that?
+a) border-style
+b) border-color
+c) border-decoration
+*d) Both A. and B.
+
+24. Which CSS property and value is used to center an element?
+*a) text-align:center
+b) align:center
+c) text-align:middle
+d) align:middle
+
+25. What are the valid values of text-align property?
+a) left, middle, right
+b) left, center, right
+*c) left, center, right, justify
+d) left, middle, right, justify
+
+26. What is the use of "text-align:justify" in CSS?
+*a) Stretches the lines so that each line has equal width
+b) Stretches the lines so that each line can be arranged in left alignment
+c) Stretches the lines so that each line can be arranged in right alignment
+d) None of the above
+
+27. Which CSS property is used to specify the indentation of the first line of a text?
+a) text-align
+b) padding-left
+c) margin-left
+*d) text-indent
+
+28. Which CSS property is used to specify the space between the characters in a text?
+a) text-space
+b) letter-space
+*c) letter-spacing
+d) letter-distance
+
+29. Which CSS property is used to specify the space between lines?
+a) line-space
+b) line-spacing
+c) line-padding
+*d) line-height
+
+30. Which CSS property is used to specify the space between the words in a text?
+*a) word-spacing
+b) word-padding
+c) word-height
+d) characters-spacing
+
+31. Which CSS property adds shadow to text?
+a) content-shadow
+*b) text-shadow
+c) word-shadow
+d) text-outline
+
+32. Which CSS property is used to specify uppercase and lowercase letters in a text?
+*a) text-transform
+b) text-case
+c) case
+d) text-casing
+
+33. Which is the correct CSS statement to capitalize the first letter of each word?
+a) text-transform: uppercase
+*b) text-transform: capitalize
+c) text-transform: sentence
+d) Both A. and B.
+
+34. What are the valid values of text-transform property?
+*a) uppercase, lowercase, and capitalize
+b) uppercase, lowercase, capitalize, and sentence
+c) upper, lower, and capital
+d) upper, lower, capital, and sentence
+
+35. What are the valid values of "text-decoration" property?
+*a) overline, line-through, underline, and none
+b) overline, strike, line-through, underline, and none
+c) double-line, overline, line-through, underline, and none
+d) None of these
+
+36. Which CSS property specifies how to align the last line of a text?
+a) text-align
+b) last-text-align
+c) text-align-last-line
+*d) text-align-last
+
+37. Which CSS property sets the vertical alignment of an element?
+*a) vertical-align
+b) vertical-text-align
+c) text-valign
+d) vertical-align-text
+
+38. What are the valid values of vertical-align property?
+a) baseline, text-top, text-bottom, subscript, and superscript
+b) baseline, top, bottom, sub, and super
+*c) baseline, text-top, text-bottom, sub, and super
+d) base, text-top, text-bottom, sub, and super
+
+39. Which is the correct CSS statement to define multiple font families?
+a) font: "Times New Roman", Times, serif;
+b) font-name: "Times New Roman", Times, serif;
+c) font-family: "Times New Roman, Times, serif";
+*d) font-family: "Times New Roman", Times, serif;
+
+40. Which CSS property specifies the type of list item marker?
+a) list-style
+*b) list-style-type
+c) list-style-circle
+d) list-style-square
+
+41. Which is the correct CSS statement is used to remove the markers/bullets?
+a) list-style: none;
+b) list-style-type: 0;
+c) list-style-type: blank;
+*d) list-style-type: none;
+
+42. Which CSS property specifies an image as the list item marker?
+*a) list-style-image
+b) list-style-picture
+c) list-style-background
+d) list-style-bgimage
+
+43. Which CSS property specifies if/how an element is displayed?
+a) block
+*b) display
+c) element-display
+d) element-block
+
+44. Which CSS property specifies the type of positioning method used for an element?
+a) positions
+b) text-position
+c) positioning
+*d) position
+
+45. HTML elements are positioned ___ by default.
+*a) static
+b) fixed
+c) relative
+d) none
+
+46. What are the valid values for "position" property?
+a) block, none, fixed, absolute, and static
+b) block, static, fixed, absolute, and sticky
+c) static, relative, fixed, absolute, and none
+*d) static, relative, fixed, absolute, and sticky
+
+47. Which CSS property specifies the opacity/transparency of an element?
+a) transparency
+*b) opacity
+c) transform-opacity
+d) opacity-all
+
+48. Which CSS function performs a calculation to be used as the property value?
+a) sum()
+b) add()
+*c) calc()
+d) addition()
+
+49. Which CSS function uses the largest value?
+a) large()
+b) maximum()
+c) max_value()
+*d) max()
+
+50. Which CSS function uses the smallest value?
+a) small()
+b) minimum()
+c) min_value()
+*d) min()
+
+51. In how many ways can CSS be added to HTML?
+a) One
+b) Two
+*c) Three
+d) Infinite
+
+52. The <style> in Internal CSS refers to ___.
+a) Attributes
+*b) HTML tags
+c) Selector
+d) All of the above
+
+53. Can we link multiple stylesheets to a single page?
+*a) Yes
+b) No
+c) Can't say, it depends on CSS properties
+
+54. The CSS property used to change text sizes?
+a) font-family
+b) font-size
+c) font
+*d) Both A and C
+
+55. In this line of code, identify the selector ___.
+*a) p {border: 2px solid blue;}
+b) p
+c) border
+d) 2px
+
+56. How many color names does CSS supports?
+*a) 140
+b) 100
+c) 75
+d) 90
+
+57. The ___ property is used in the positioning of the background image.
+a) background-image
+*b) background-position
+c) padding
+d) All of the above
+
+58. ___ means 4 times the size of the current font.
+a) 4px
+b) 4 pt.
+*c) 4em
+d) 4vw
+
+59. Amongst the following browsers, which browser supports almost all the CSS properties?
+a) Firefox
+b) Safari
+*c) Google Chrome
+d) Opera
+
+60. What is the CSS Entity for the character '#'?
+*a) 0023
+b) 0026
+c) 0027
+d) None of the these
+
+61. This selector selects all the <h> elements where the parent is a <div> element.
+a) h + p
+*b) h > p
+c) p.h
+d) p > h
+
+62. Which selector selects the markers of list items?
+*a) :: marker
+b) .marker
+c) ::selector
+d) None of these
+
+63. Which is the most widely used font in customizing web pages?
+a) Times New Roman
+b) Georgia
+*c) Arial
+d) Garamond
+
+64. Which of the following CSS properties are animatable?
+a) color
+b) border-left
+c) flex
+*d) All of the above
+
+65. We can give space between unit and value when assigning length values to CSS properties.
+a) True
+*b) False
+
+66. Which of these units of length is supported by Chrome Version 1.0?
+a) rem
+*b) px
+c) vw
+d) vh
+
+67. Which line of code is a must to write to apply CSS Flexbox properties?
+*a) display: flex;
+b) display: flexbox;
+c) display: block;
+d) flex-direction: row;
+
+68. The default value of justify-content property is ___.
+*a) flex-start
+b) flex-end
+c) space-between
+d) None
+
+69. Which is the correct syntax for adding animation?
+
+a) animation: name timing-function duration
+*b) animation: name duration timing-function
+c) animation: name delay duration
+d) None of these
+
+70. Which line of code specifies playing an animation with the same speed from beginning to the end?
+*a) div {animation- timing function: linear;}
+b) div {animation- timing function: ease in;}
+c) div {animation- play- state: paused;}
+d) div {animation- fill-mode: both;}
+
+71. Which line of code represents a universal selector?
+*a) *{border: 2px solid red;}
+b) body {border: 2px solid red;}
+c) both A&B
+d) None of these
+
+72. Which of the following properties specify the width of the borders?
+a) border-width
+b) border-style
+c) border
+*d) Both A and C
+
+73. Is border-image property animatable?
+a) Yes
+*b) No
+
+

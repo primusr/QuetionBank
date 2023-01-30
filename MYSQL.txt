@@ -1,0 +1,262 @@
+Quiz Title: MySQL MCQ
+1. In which language MYSQL is written?
+a) PYTHON
+*b) C/C+
+c) JAVA
+d) COBOL
+
+2. To see the list of options provided by MYSQL which of the following command is used?
+a) HELP
+b) –HELP
+*c) -- HELP
+d) ELP-
+
+3. What do you mean by HOST in MYSQL?
+a) HOST is the user name.
+*b) HOST is the representation of where the MYSQL server is running.
+c) HOST is the administration’s machine name.
+
+4. Is a semicolon necessary after every query?
+*a) TRUE
+b) FALSE
+ 
+5. To know your MYSQL version and current date which of the following command you should use?
+a) VERSION, CURRENT_DATE();
+b) SELECT VERSION, CURRENTDATE();
+*c) SELECT VERSION(), CURRENT_DATE;
+d) SELECT VERSON(),CURRENT_DATE();
+
+6. In which form MYSQL query results are displayed?
+a) LIST
+b) TUPLE
+*c) ROWS AND COLUMNS
+d) LIST AND TUPLES BOTH
+
+7. What does the marked time represent in the given picture?
+a) MYSQL MCQ 7
+b) CPU TIME
+*c) MACHINE TIME
+d) WALL CLOCK TIME
+
+8. In MYSQL, can we write keywords in any letter case?
+*a) YES
+b) NO
+
+9. In MYSQL, can you write multiple statements in a single line?
+*a) YES
+b) NO
+ 
+10. If you want to stop the processing query then which of the following command you should use?
+a) QUIT
+b) STOP
+*c) /c
+d) C and D both
+
+11. To see all the databases which command is used?
+a) Show database;
+*b) Show databases;
+c) Show database();
+d) Show_all database;
+
+12. Can we create a database named 01_test?
+*a) Yes
+b) No
+
+13. In the following statement, what do you mean by the 'student'? USE student;
+*a) Database name
+b) Row name
+c) Column name
+d) Table name
+
+14. If our database name is 'schooldb' and we want to drop this database will the query work if we will write our database name in capital letters?
+*a) Yes
+b) No
+
+15. Which of the following command is used to delete a database?
+a) DELETE DATABASE_NAME;
+b) DROP DATABASE_NAME;
+*c) DROP DATABASE DATABASE_NAME;
+d) DELETE DATABASE DATABASE_NAME;
+
+16. ALTER command is a type of which SQL command?
+a) DML
+*b) DDL
+c) DCL
+d) DQL
+
+17. Which of the following is the correct syntax to add a field using alter command?
+*a) ALTER TABLE table_name ADD field_name data type;
+b) ALTER TABLE table_name, field_name data type;
+c) ALTER TABLE field_name data type;
+
+18. Can you change the column name using alter command?
+*a) Yes
+b) No
+
+19. Suppose you have a table named to test and inside this table you have a column named CGPA now if you are asked to change the column named CGPA to total percentage, using alter command then which of the following statement you will write?
+*a) ALTER TABLE test CHANGE COLUMN 'cgpa’ 'total_percentage’ int;
+b) ALTER test table CHANGE 'cgpa’ ,'total_percentage’ int;
+c) ALTER TABLE test CHANGE 'cgpa 'total_percentage’ int;
+
+20. Suppose you are asked to drop a column using alter statement then which syntax you will follow?
+a) ALTER table_name TABLE DROP COLUMN column_name;
+*b) ALTER TABLE table_name DROP COLUMN column_name;
+ 
+21. What does the show tables command do?
+a) It displays all the tables of all the databases in the machine.
+*b) It displays all the tables of a particular database.
+c) It only displays the current table.
+
+22. Is it important to provide where condition with update statement in MYSQL?
+*a) YES
+b) NO
+
+23. Suppose you have two columns named student_name and student_department inside table student_details and you are asked to update the value of these two columns where ID=4 then what statement you will write?
+*a) UPDATE student_details SET Student_name="ram", Student_department='Chemical' WHERE ID='4';
+b) UPDATE table student_details SET column_name Student_name="ram", Student_department='Chemical' WHERE ID='4';
+c) UPDATE student_details SET Student_name="ram" and Student_department='Chemical' WHERE ID='4';
+
+24. What is the function of DESCRIBE statement?
+a) This statement helps us to get the details of the entire row.
+*b) This statement helps us to get the definition of a particular table at a time.
+c) This statement helps us to get the definition of all the tables.
+
+25. If you are asked to delete the entire data of a table without disturbing the table definition then in such case which statement you will use?
+a) DELETE
+*b) TRUNCATE
+c) DROP
+d) CLEAR
+
+26. Which of the following is the correct syntax for using the TRUNCATE statement?
+a) TUNCATE TABLE-NAME;
+b) TRUNCATE TABLE-NAME DATABASE-NAME;
+*c) TRUNCATE TABLE TABLE-NAME;
+d) TRUNCATE DATABASE-NAME TABLE-NAME;
+
+27. From all the clauses in MYSQL what task is performed by the DISTINT clause?
+a) It returns us the duplicate values
+*b) It returns us the unique values
+c) It returns us the NULL values;
+
+28. Suppose you have 1000 records and you only want 100 records which of the following clause you will use?
+a) SET LIMIT
+*b) LIMIT
+c) HAVING
+d) GROUP BY
+
+29. What will the following statement return? SELECT * FROM student_details WHERE Student_name LIKE 'S%'; Where student_details is the table name and student_name is the column name?
+*a) It will return the name starting with s
+b) It will return the name ending with s
+c) It will return the name who has s in between
+
+30. Suppose you are asked to display all the names which have 'a' as their second character then which query pattern you will use?
+a) _ _ a%;
+b) _a_;
+*c) _a%;
+d) _%a;
+
+31. If you are asked to find out the names which only have 5 characters then what query pattern you will use?
+a) %%%%%
+b) _%_%_
+*c) _____
+d) --%%-
+
+32. State whether the statement is true or false? 'PRIMARY KEY and UNIQUE KEY both are the same'
+a) TRUE
+*b) FALSE
+ 
+33. Can we have more than 1 primary key in a table?
+a) TRUE
+*b) FALSE
+
+34. A variable that has a primary key constraint can have any data type other than INT?
+a) TRUE
+*b) FALSE
+ 
+35. Which key is commonly known as a subset of a super key?
+*a) Candidate key
+b) Foreign key
+c) Primary key
+d) Unique key
+
+36. Numbers of super keys always more than the number of candidate keys?
+*a) True
+b) False
+
+37. Which key is the minimal set of super keys?
+*a) Candidate key
+b) Foreign key
+c) Primary key
+d) Unique key
+
+38. Which key helps us to establish the relationship between two tables?
+a) Candidate key
+*b) Foreign key
+c) Primary key
+d) Unique key
+
+39. Super key and candidate key can have NULL values?
+*a) True
+b) False
+
+40. Which operator checks whether the particular condition record exists in the table or not?
+*a) Exists
+b) Is null
+c) Not null
+d) In
+
+41. By default, the result of an order by clause is always displayed in which order?
+*a) Ascending
+b) Descending
+ 
+42. Which of the following syntax you will use to rename the table name?
+*a) ALTER TABLE table_name RENAME TO new_table_name;
+b) RENAME new_table_name;
+c) ALTER table_name RENAME new_table_name;
+
+43. 'MYSQL is the open source software' - What do you mean by this statement?
+*a) This means anyone can use this software.
+b) This means you can contact the source of the software
+c) This means it gives the best security features
+
+44. Which SQL command is used for granting or revoking the rights?
+a) DML
+b) DDL
+*c) DCL
+d) DQL
+
+45. Which MySQL function is used to get the current date and time?
+a) DATETIME()
+b) TODAY()
+c) DATE()
+*d) NOW()
+
+46. SELECT is a type of which SQL command?
+a) DML
+b) DDL
+c) DCL
+*d) DQL
+
+47. Which SQL commands are used for manipulation/ modifying the data present in the table?
+*a) DML
+b) DDL
+c) DCL
+d) DQL
+
+48. If you want to add a row in a table then which command you will use?
+*a) INSERT INTO
+b) ADD
+c) ALTER
+d) CREATE
+
+49. Which type of join combines the result from both the tables and returns us the Cartesian product of the values?
+a) Right join
+b) Left join
+c) Inner join
+*d) Cross join
+
+50. Which of the following data type is used when it comes to store images in your database?
+a) BIG INT
+*b) BLOB
+c) VARCHAR
+d) INT

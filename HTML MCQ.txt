@@ -1,0 +1,331 @@
+Quiz Title: HTML MCQ
+
+1. What does HTML stand for?
+*a) Hypertext Markup Language
+b) Home Tool Markup Language
+c) Hyperlinks and Text Markup Language
+d) None of the above
+
+2. Which amongst the following is the correct HTML tag for the largest heading?
+a) &lt;head&gt;
+*b) &lt;h1&gt;
+c) &lt;heading&gt;
+d) None of the above
+
+3. Which amongst the following is responsible for inserting a line break in HTML?
+a) &lt;tr&gt;
+*b) &lt;br&gt;
+c) &lt;lb&gt;
+d) &lt;break&gt;
+
+4. What type of language is HTML?
+a) Scripting language
+b) Programming language
+*c) Markup language
+d) None of the above
+
+5. What is the HTML code for adding a background color?
+*a) &lt;body style= "background-color:red;"&gt;
+b) &lt;background&gt;red&lt;/background&gt;
+c) &lt;bg&gt;red&lt;/bg&gt;
+d) None of the above
+
+6. Which amongst the following tags is used to specify important texts in HTML?
+a) &lt;b&gt;
+b) &lt;important&gt;
+c) &lt;imptext&gt;
+*d) &lt;strong&gt;
+
+7. Which amongst the following tags is used to make the text bold in HTML?
+*a) &lt;b&gt;
+b) &lt;bold&gt;
+c) &lt;bd&gt;
+d) &lt;a&gt;
+
+8. What is the main difference between &lt;strong&gt; tag and &lt;b&gt; tag in HTML?
+*a) &lt;strong&gt; tag is used to make text bold only, and &lt;b&gt; tag adds extra semantic importance to the content
+b) &lt;strong&gt; tag adds extra semantic importance to the content, and &lt;b&gt; tag is used to make text bold only
+c) There is no difference between &lt;strong&gt; tag and &lt;b&gt; tag
+d) None of the above
+
+9. Which amongst the following tags is used to mark the beginning of a paragraph in HTML?
+a) &lt;a&gt;
+b) &lt;br&gt;
+c) &lt;hr&gt;
+*d) &lt;p&gt;
+
+10. Which tag is the first tag in a HTML document?
+a) &lt;head&gt;
+b) &lt;body&gt;
+c) &lt;title&gt;
+*d) &lt;html&gt;
+
+11. Which of the following is the attribute of &lt;form&gt; tag in HTML?
+a) Action
+b) Method
+*c) Both (a) and (b)
+d) None of the above
+
+12. Which amongst the following are correct HTML code for creating a hyperlink?
+a) &lt;a&gt;https://www.tutorialandexample.com/&lt;/a&gt;
+b) &lt;a url="https://www.tutorialandexample.com/"&gt;Tutorial and Example&lt;/a&gt;
+c) &lt;a"https://www.tutorialandexample.com/"&gt;Tutorial and Example&lt;/a&gt;
+*d) &lt;a href="https://www.tutorialandexample.com/"&gt; Tutorial and Example&lt;/a&gt;
+
+13. What is the correct HTML code for opening a link in a new tab or new browser window?
+a) &lt;a href="url" target="new"&gt;
+*b) &lt;a href="url" target="_blank"&gt;
+c) Both (a) and (b)
+d) None of the above
+
+14. Which amongst the following is the correct HTML code for creating a bulleted list?
+a) &lt;list&gt;
+b) &lt;blist&gt;
+c) &lt;ol&gt;
+*d) &lt;ul&gt;
+
+15. Which amongst the following is the correct HTML code for creating an ordered list?
+*a) &lt;ol&gt;
+b) &lt;olist&gt;
+c) &lt;ul&gt;
+d) None of the above
+
+16. Which among the following tag is used for making text italic in HTML?
+a) &lt;italic&gt;
+*b) &lt;i&gt;
+c) &lt;I&gt;
+d) None of the above
+
+17. Which among the following is the correct HTML code for inserting an image?
+a) &lt;image alt="SampleImage"&gt;image.gif&lt;/image&gt;
+b) &lt;img href="image.gif" alt= "SampleImage"&gt;
+c) &lt;image src="image.gif" alt= "SampleImage"&gt;
+*d) &lt;img src="image.gif" alt= "SampleImage"&gt;
+
+18. Which amongst the following is the correct doctype for HTML?
+a) &lt;Doctype HTML&gt;
+b) &lt;\Doctype html&gt;
+c) &lt;Doctype&gt;
+*d) &lt;!DOCTYPE html&gt;
+
+19. What is an &lt;input&gt; tag?
+a) a format tag
+*b) an empty tag
+c) All of the above
+d) None of the above
+
+20. In HTML, what is the role of the &lt;aside&gt; element?
+*a) Content aside from the page content
+b) The ASCII character-set; to send information between computers on the Internet
+c) A navigation list to be shown at the left side of the page
+d) None of the above
+
+21. Which amongst the following are the attributes of &lt;input&gt; tag in HTML?
+a) Type
+b) Name
+c) Max
+*d) All of the above
+
+22. What are the empty elements in HTML?
+a) There is no such element as an empty element.
+*b) Empty elements are elements with no data.
+c) Empty elements are elements that are not valid in HTML.
+d) None of the above
+
+23. Which amongst the following is the subset of HTML?
+*a) SGML
+b) SGMT
+c) SGMD
+d) None of the above
+
+24. Which amongst the following tags is used to make the text underlined?
+a) &lt;ud&gt;
+b) &lt;ol&gt;
+c) &lt;ul&gt;
+*d) &lt;u&gt;
+
+25. Tags is HTML are enclosed in:
+*a) &lt; and &gt;
+b) " and "
+c) ? and ?
+d) { and }
+
+26. Why is &lt;hr&gt; tag used in HTML?
+a) Vertical ruler
+*b) Horizontal ruler
+c) New line
+d) None of the above
+
+27. What is meant by "Character Encoding"?
+a) A method that represents characters in numbers
+b) A method that represents numbers in characters
+*c) A method that converts bytes into characters
+d) None of the above
+
+28. What is meant by "Singleton Tags" in HTML?
+*a) Elements that do not have a closing tag
+b) Elements that can only take single values
+c) Elements that must appear as pairs
+d) None of the above
+
+29. What amongst the following is not a Singleton Tag?
+a) &lt;img&gt;
+b) &lt;br&gt;
+c) &lt;hr&gt;
+*d) &lt;strong&gt;
+
+30. What is the main difference between Elements and Tags in HTML?
+*a) Tags are just opening and closing entities; element includes an opening, closing and the content.
+b) Tags include opening, closing, and the content; elements are just opening and closing entities.
+c) There is no difference between elements and tags.
+d) None of the above
+
+31. What is meant by an Anchor tag in HTML?
+a) It is used to open a URL in a new tab.
+*b) It is used to link two sections or two web pages.
+c) There is no such thing as an Anchor tag in HTML.
+d) None of the above
+
+32. Which amongst the following is the correct method of inserting a comment in HTML?
+*a) &lt;!--Sample--&gt;
+b) &lt;--Sample--&gt;
+c) &lt;!--Sample--!&gt;
+d) None of the above
+
+33. Which element is used to put a scrolling text in a web page?
+*a) &lt;marquee&gt;
+b) &lt;scroll&gt;
+c) &lt;scrolltext&gt;
+d) None of the above
+
+34. Which amongst the following is the correct HTML code for putting a background image in a HTML document?
+*a) &lt;body background= "image.gif"&gt;
+b) &lt;image background= "image.gif"&gt;
+c) &lt;background&gt;"image.gif"&lt;/background&gt;
+d) None of the above
+
+35. Which amongst the following browser supports HTML5?
+a) Google Chrome
+b) Apple Safari
+c) Mozilla Firefox
+*d) All of the above
+
+36. Which amongst the following is a Block level element in HTML?
+a) &lt;div&gt;
+b) &lt;p&gt;
+c) &lt;img&gt;
+*d) All of the above
+
+37. Which amongst the following is used to list elements in HTML?
+a) &lt;ol&gt;
+b) &lt;ul&gt;
+c) &lt;dl&gt;
+*d) All of the above
+
+38. What is meant by XHTML?
+*a) Extensible hyper text markup language
+b) Extensible markup language
+c) Extensive markup language
+d) Extensive hyper text markup language
+
+39. Which amongst the following options are the elements of &lt;table&gt; in HTML?
+a) &lt;table&gt;&lt;trow&gt;&lt;td&gt;
+b) &lt;table&gt;&lt;tr&gt;&lt;tt&gt;
+c) &lt;table&gt;&lt;body&gt;&lt;td&gt;
+*d) &lt;table&gt;&lt;tr&gt;&lt;td&gt;
+
+40. Which amongst the following are the correct code for making a checkbox in HTML?
+a) &lt;input type = "check"&gt;
+b) &lt;checkbox&gt;"content"&lt;/checkbox&gt;
+c) &lt;check&gt;
+*d) &lt;input type = "checkbox"&gt;
+
+41. Which amongst the following is the correct HTML code for creating a dropdown list?
+a) &lt;input type= "dropdown"&gt;
+b) &lt;input type= "list"&gt;
+c) &lt;input type= "drop"&gt;
+*d) &lt;select&gt;
+
+42. What is &lt;iframe&gt; tag used for?
+a) To display a web page within a web page.
+b) To specify an inline frame.
+*c) Both (a) and (b)
+d) None of the above
+
+43. Which amongst the following tag is used to specify the title of a web page in HTML?
+a) &lt;head&gt;
+*b) &lt;title&gt;
+c) &lt;t&gt;
+d) None of the above
+
+44. Which tag is used to describe the footer of a document or a section in an HTML document?
+a) &lt;bottom&gt;
+b) &lt;section&gt;
+*c) &lt;footer&gt;
+d) None of the above
+
+45. For which purpose is &lt;canvas&gt; element used in HTML?
+a) To create draggable elements.
+*b) To draw graphics
+c) To manipulate data in MySQL.
+d) To display database records.
+
+46. Which amongst the following type is used to define a slider control?
+*a) Range
+b) Search
+c) Slider
+d) None of the above
+
+47. Which amongst the following HTML element is used to describe the navigation links?
+a) &lt;navigation&gt;
+b) &lt;navigate&gt;
+*c) &lt;nav&gt;
+d) None of the above
+
+48. Which amongst the following HTML tag is used to emphasize a text?
+a) &lt;i&gt;
+b) &lt;b&gt;
+*c) &lt;em&gt;
+d) None of the above
+
+49. Which amongst the following is correct HTML code for creating colorful text in a HTML document?
+*a) &lt;font color = "COLOR"&gt;
+b) &lt;font&gt; "COLOR" &lt;/font&gt;
+c) &lt;color&gt;"red"&lt;/color&gt;
+d) None of the above
+
+50. Which amongst the following is the attribute that is used to add styles to an element in HTML such as color, font, and so on?
+a) Dir
+*b) Style
+c) Color
+d) None of the above
+
+51. Which amongst the following is not a property of attribute behavior of &lt;marquee&gt; tag in HTML?
+a) Scroll
+*b) Alternate
+c) Blur
+d) None of the above
+
+52. Which amongst the following code is the correct one to create an E-mail link?
+*a) &lt;a Href="mailto:someone@example.com"&gt;
+b) &lt;mail Href="someone@example.com"&gt;
+c) &lt;a Href="someone@example.com"&gt;
+d) None of the above
+
+53. Which amongst the following is the correct tag for defining the description data in HTML?
+*a) &lt;dd&gt;
+b) &lt;dl&gt;
+c) &lt;dr&gt;
+d) None of the above
+
+54. Which amongst the following statements is true for HTML?
+*a) HTML uses Fixed Tags Defined by the Language
+b) HTML uses User defined tags
+c) HTML uses a tag that was meant only for linking
+d) None of the above
+
+55. Which of the following property can the intensity of color be described?
+a) Hue
+*b) Saturation
+c) Lightness
+d) None of the above

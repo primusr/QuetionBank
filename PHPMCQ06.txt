@@ -1,0 +1,49 @@
+Quiz Title: PHP include and require Statement
+
+1. What is the difference of include and require statements in PHP?
+a) There is not difference both are the same
+b) require is an alias of include
+*c) require returns the Fatal Error, while include returns the Warning
+d) include includes one PHP file while require can include multiple PHP files
+
+2. What is the syntax of PHP "include" statement?
+a) include {'filename'};
+b) <include 'filename'>;
+c) include <'filename'>;
+*d) include 'filename';
+
+3. What is the syntax of PHP "require" statement?
+a) require {'filename'};
+b) <require 'filename'>;
+c) require <'filename'>;
+*d) require 'filename';
+
+4. Which PHP function is used to open a file?
+*a) fopen()
+b) open()
+c) open_file()
+d) PHP_open()
+
+5. Which PHP function is used to close a file?
+*a) fclose()
+b) close()
+c) close_file()
+d) PHP_close()
+
+6. Which PHP function is used to read the content of a file?
+a) read()
+b) getfile()
+*c) readfile()
+d) All of the above
+
+7. Which PHP function reads a single line from a file?
+a) readline()
+b) getline()
+c) fget()
+*d) fgets()
+
+8. Which PHP function reads a single character from a file?
+a) readcharacter()
+b) getchar()
+*c) fgetc()
+d) fchars()

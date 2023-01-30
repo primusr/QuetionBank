@@ -1,0 +1,97 @@
+Quiz Title: PHP Strings
+
+1. What will be the output of the following PHP code?1
+a) 6
+*b) 7
+c) 8
+d) -1
+
+2. Which function is used to replace text within a string?
+*a) str_replace()
+b) replace()
+c) replace_str()
+d) string-replace()
+
+3. What will be the output of the following PHP code?2
+a) Includehelp
+b) IncludeH\elp
+c) Includ\eHelp
+*d) Includ\eH\elp
+
+4. What will be the output of the following PHP code?3
+a) Hello Includehelp!
+b) Hello "Includehelp!"
+c) Hello ""Includehelp!""
+*d) Hello \"Includehelp!\"
+
+5. Which function converts a string of ASCII characters to hexadecimal values?
+*a) bin2hex()
+b) str2hex()
+c) hex()
+d) str_hex()
+
+6. What will be the output of the following PHP code?4
+*a) 496e636c75646568656c70
+b) Includehelp
+c) 496e636c75646568656c70Includehelp
+d) Includehelp496e636c75646568656c70
+
+7. Which function is used to convert the ASCII value to the character?
+a) asc()
+b) str()
+c) char()
+*d) chr()
+
+8. What is the complete syntax of chunk_split() function in PHP?
+*a) chunk_split(string,length,end)
+b) chunk_split(string)
+c) chunk_split(string,end)
+d) chunk_split(length)
+
+9. Which function is used to convert hexadecimal values to the ASCII characters?
+*a) hex2bin()
+b) hex2str()
+c) hex2asc()
+d) hex_string()
+
+10. What is the complete syntax of join() function in PHP?
+a) join(string1, string2)
+b) join(string1, string2, separator)
+*c) join(separator, array)
+d) join(separator, string1, string2)
+
+11. There are two strings (in an array) "Hello" and "World", which is the correct PHP statement to join them with the separator ","?
+a) join(",","Hello","World")
+b) join("Hello","World",",")
+c) join(",", ("Hello","World"))
+*d) join(",",array("Hello","World"))
+
+12. Which PHP function is used to print (output) a formatted string?
+a) echo()
+b) print()
+*c) printf()
+d) prints()
+
+13. What will be the output of the following PHP code?5
+*a) ffff
+b) 0xffff
+c) FFFF
+d) 0XFFFF
+
+14. Which PHP function is used to get the length of the string?
+a) strlength()
+b) strlen()
+*c) length()
+d) str_len()
+
+15. What will be the output of the following PHP code?6
+a) Hi, there how are you?
+*b) Hi, There How Are You?
+c) hi, there how are you?
+d) HI, THERE HOW ARE YOU?
+
+16. Which PHP functions are used to convert string to lowercase and uppercase?
+a) strupper() and strlower()
+b) str_toupper() and str_tolower()
+c) toupper() and tolower()
+*d) strtoupper() and strtolower()
