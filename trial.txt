@@ -1,0 +1,13 @@
+1. What will be the value of VALUE?
+    
+    <code>
+	&lt;script &gt;<br>
+	const VALUE = 10;<br>
+	VALUE = 20;<br>
+	&lt;/script &gt;
+    </code>
+
+a) 10
+b) 20
+c) ValueError
+*d) TypeError
