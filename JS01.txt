@@ -1,3 +1,5 @@
+Quiz Title: JavaScript MCQ
+
 1. JavaScript is the programming language of the _____.
 a) Desktop
 b) Mobile
@@ -17,10 +19,9 @@ c) It is a markup language of Java to develop the webpages
 d) All of the above
 
 4. In which HTML element, we put the JavaScript code?
-a) &lt;javascript&gt;...&lt;/javascript&gt;
-b) &lt;js&gt;...&lt;/js&gt;
-*c) &lt;script&gt;...&lt;/script&gt;
-d) &lt;css&gt;...&lt;/css&gt;
+a) <javascript>...</javascript>
+b) <js>...</js>
+*c) <script>...</script>
 
 5. JavaScript code can be written in ____.
 a) JavaScript file (.js file)
@@ -41,10 +42,10 @@ c) spaces
 *d) All of the above
 
 8. Which is the correct syntax to call an external JavaScript file in the current HTML document?
-*a) \&lt;script src="jsfile.js"&gt;&lt;/script&gt;
-b) \&lt;script href=" jsfile.js"&gt;&lt;/script&gt;
-c) \&lt;import src=" jsfile.js"&gt;&lt;/import&gt;
-d) \&lt;script link=" jsfile.js"&gt;&lt;/script&gt;
+*a) <script src="jsfile.js"></script>
+b) <script href=" jsfile.js"></script>
+c) <import src=" jsfile.js"></import>
+d) <script link=" jsfile.js"></script>
 
 9. Which JavaScript method is used to access an HTML element by id?
 a) getElementById()
@@ -78,14 +79,14 @@ d) window.alertContent()
 
 14. Which is the correct JavaScript statement to display "Hello Boss!" into an alert box?
 a) alert("Hello Boss!");
-b) alert('Hello Boss!');
+b) alert('Hello Boss!');#
 c) alert(Text:'Hello Boss!');
 *d) Both A. and B.
 
 15. Which is the correct JavaScript statement to print the addition of two numbers 10 and 20 in a paragraph whose id is 'result'?
 *a) getElementById("result").innerHTML = 10+20;
 b) getElementById("result").innerHTML = "10+20";
-c) getElementById("#result").innerHTML = 10+20;
+c) getElementById("&#35;result").innerHTML = 10+20;
 d) All of the above
 
 16. What is the use of this JavaScript statement? &lt;button onclick="window.print()"&gt;Submit&lt;/button&gt;
@@ -95,16 +96,16 @@ c) It will write the content of the current page in the browser’s console
 d) None of the above
 
 17. In JavaScript, single line comment begins with ___.
-a) \#
+a) #
 b) /*
 c) $
 *d) //
 
 18. In JavaScript, multi-line comments start with __ and end with ___.
 *a) /* and */
-b) \&lt;!—and --&gt;
-c) \## and ##
-d) \// and //
+b) <!—and -->
+c) ## and ##
+d) // and //
 
 19. Which JavaScript keyword is used to declare a variable?
 a) Var
@@ -137,8 +138,11 @@ c) constant_name const = value;
 *d) const constant_name = value;
 
 24. What will be the value of VALUE?
-	
-	![alt_text](JS24.png)
+<script>
+	const VALUE = 10;
+	VALUE = 20;
+</script>
+
 a) 10
 b) 20
 c) ValueError
@@ -151,10 +155,10 @@ c) null
 d) NaN
 
 26. What is the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
 	var a;
 	document.getElementById("demo").innerHTML = a+1;
-	&lt;/script&gt;
+</script>
 a) 0
 b) undefined
 c) 1
@@ -165,20 +169,21 @@ c) 1
 b) No
 
 28. What is the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
 	var name = "Alex" + " " + "Alvin";
 	document.getElementById("demo").innerHTML = name;
-	&lt;/script&gt;
-*a) Alex Alvin
+</script>
+
+*a) lex Alvin
 b) AlexAlvin
 c) TypeError
 d) ValueError
 
 29. What is the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
 	var a = 10 + 20 + "5";
 	document.getElementById("demo").innerHTML = a;
-	&lt;/script&gt;
+</script>
 a) 35
 *b) 305
 c) TypeError
@@ -189,10 +194,10 @@ a) Yes
 *b) No
 
 31. What is the output of the following JavaScript code (let example)?
-	&lt;script&gt;
+<script>
 	let a = 10;
 	let a = 0;
-	&lt;/script&gt;
+</script>
 a) 10
 b) 0
 *c) SyntaxError
@@ -209,30 +214,30 @@ d) pow
 b) No
 
 34. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
 	var x = 5;
 	document.getElementById("demo").innerHTML = x--;
-	&lt;/script&gt;
+</script>
 a) 5
 *b) 4
 c) TypeError
 d) ValueError
 
 35. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
 	var x = 10 + 20 * 5;
 	document.getElementById("tes").innerHTML = x;
-	&lt;/script&gt;
-*a) 110
+</script>
+*a) 10
 b) 150
 c) TypeError
 d) ValueError
 
 36. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
 	var x = (10 + 20) * 5;
 	document.getElementById("tes").innerHTML = x;
-	&lt;/script&gt;
+</script>
 a) 110
 *b) 150
 c) TypeError
@@ -267,10 +272,10 @@ b) typeof(variable/value)
 d) None of the above
 
 42. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
 	var x = 12.34;
 	document.getElementById("test").innerHTML = typeof(x);
-	&lt;/script&gt;
+</script>
 a) int
 b) float
 c) long
@@ -289,12 +294,12 @@ c) return_type function_name(parameter1, parameter2, ...) { /*Function's body*/ 
 d) function function_name(parameter1, parameter2, ...) as return_type { /*Function's body*/ }
 
 45. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
 	function addition(a, b) {
-	return a+b;
+		return a+b;
 	}
 	document.getElementById("test").innerHTML = addition;
-	&lt;/script&gt;
+</script>
 a) SyntaxError
 b) ValueError
 c) 0
@@ -323,10 +328,10 @@ b) len
 d) Length
 
 50. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
 	let str = "IncludeHelp";
 	document.getElementById("test").innerHTML = str.length;
-	&lt;/script&gt;
+</script>
 *a) 11
 b) 12
 c) ValueError
@@ -339,10 +344,10 @@ c) Double quote (")
 d) Tipple single quote (''')
 
 52. Will the following JavaScript code work?
-	&lt;script&gt;
+<script>
 	document.getElementById("test").innerHTML = \
 	"Hello, IncludeHelp!";
-	&lt;/script&gt;
+</script>
 a) Yes
 *b) No
 
@@ -353,11 +358,11 @@ c) var s = "IncludeHelp!"
 d) All of the above
 
 54. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
 	let str1 = new String("IncludeHelp!");
 	let str2 = new String("IncludeHelp!");
 	document.getElementById("test").innerHTML = (str1==str2);
-	&lt;/script&gt;
+</script>
 a) true
 *b) false
 c) True
@@ -370,10 +375,10 @@ c) substr(start, length)
 *d) All of the above
 
 56. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
     let x = "Hello, IncludeHelp!";
     document.getElementById("test").innerHTML = x.slice(-13,-1);
-	&lt;/script&gt;
+</script>
 a) IncludeHelp!
 *b) IncludeHelp
 c) ValueError
@@ -396,81 +401,90 @@ c) parseInteger()
 d) All of the above
 
 60. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
     const myArray = ['h', 'e', 'l', 'l', 'o'];
     document.write(myArray[0]);
     document.write(myArray[1]);
-	&lt;/script&gt;
+</script>
 *a) he
 b) undefinedh
 c) ValueError
 d) TypeError
 
 61. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
     let cars = ['Honda', 'Hyundai'];
     cars.push('Mahindra');
     document.write(typeof cars + " " + cars);
-	&lt;/script&gt;
+</script>
 a) array Honda,Hyundai,Mahindra
 b) string Honda,Hyundai,Mahindra
 *c) object Honda,Hyundai,Mahindra
 d) object "Honda", "Hyundai", "Mahindra"
 
 62. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
     let cars1 = ['Honda', 'Hyundai'];
     let cars2 = cars1;
+    
     cars1.push('Mahinda');
+    
     document.write(cars1 + "---" + cars2);
-	&lt;/script&gt;
+</script>
 a) Honda,Hyundai,Mahinda---Honda,Hyundai
 *b) Honda,Hyundai,Mahinda---Honda,Hyundai,Mahinda
 c) Honda,Hyundai ---Honda,Hyundai
 d) [Honda,Hyundai,Mahinda]---[Honda,Hyundai,Mahinda]
 
 63. What will be the output of the following JavaScript code?
-	&lt;script&gt;  
+<script>  
 	var msgs=new Array("Hello","Hey","Morning!");  
-	for (i=0;i&lt;msgs.length;i++){  
-	document.write(msgs[i] + " | ");  
+
+	for (i=0;i<msgs.length;i++){  
+		document.write(msgs[i] + " | ");  
 	}
-	&lt;/script&gt;
+</script>
 *a) Hello | Hey | Morning! |
 b) Hello | Hey |
 c) ValueError
 d) TypeError
 
 64. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
 	var values = [10, 20, 30, 40];
+	
 	var result = values.reduceRight(function(x,y){
-	return (x + y);
+		return (x + y);
 	});
-		document.write("Result: " + result);
-	&lt;/script&gt;
+	
+	document.write("Result: " + result);
+</script>
 a) Result: 40
 b) Result: 70
 c) Result: 90
 *d) Result: 100
 
 65. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
 	var cars = ["Honda","Hyundai","Mahindra"];
+	
 	var result = cars.shift();
+	
 	document.writeln("Result: ", cars);
-	&lt;/script&gt;
+</script>
 a) Result: Honda,Hyundai,Mahindra
 b) Result: Honda
 *c) Result: Hyundai,Mahindra
 d) Result: Honda,Mahindra
 
 66. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
 	var cars = ["Honda","Hyundai","Mahindra"];
+
 	var result = cars.unshift("Toyota", "Tata");
+
 	document.writeln("[", result, "] ", cars);
-	&lt;/script&gt;
+</script>
 *a) [5] Toyota,Tata,Honda,Hyundai,Mahindra
 b) [5]Honda,Hyundai,Mahindra,Toyota,Tata
 c) [2] Toyota,Tata
@@ -483,29 +497,33 @@ b) traverse()
 d) foreach()
 
 68. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
 	const arr = [10, 20, 30];
 	let result = 0;
+	
 	arr.forEach(myFunction);
+	
 	document.write("Result: " , result)
 	function myFunction(value, index, array) {
-	result += value; 
+	  result += value; 
 	}
-	&lt;/script&gt;
+</script>
 *a) Result: 60
 b) Result: 102030
 c) Result: 10,20,30
 d) ValueError
 
 69. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
 	const values = [10, 20, 30];
 	const result = values.map(myFunction);
+
 	document.write("Result: ", result);
+
 	function myFunction(value, index, array) {
 	  return value * value;
 	}
-	&lt;/script&gt;
+</script>
 a) Result: 10,20,30
 b) Result: 10*10,20*20,30*30
 *c) Result: 100,400,900
@@ -531,10 +549,10 @@ d) new Date(date string)
 *e) All of the above
 
 73. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
 	const curr = new Date();
 	document.write(curr);
-	&lt;/script&gt;
+</script>
 a) Tue Dec 21 2021 13:04:36 GMT+0530
 b) Tue Dec 21 2021 13:04:36 (India Standard Time)
 c) Tue Dec 21 2021 13:04:36::00::01 GMT+0530 (India Standard Time)
@@ -565,77 +583,82 @@ b) fullYear()
 d) getfullyear()
 
 78. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
 	document.write(Math.round(107.5))
-	&lt;/script&gt;
+</script>
 a) 107.5
 b) 107
 *c) 108
 d) 107.00
 
 79. What will be the output of the following JavaScript code?
-	&lt;script&gt;
-	try{
+<script>
+try{
 	const cars = {  
-	company: 'Honda'
+		company: 'Honda'
 	};  
+
 	delete cars.company;
 	document.write(cars.company);  
-	}
-	catch (err){
+}
+catch (err){
 	document.write(err.message);
-	}
-	&lt;/script&gt;
+}
+</script>
 *a) undefined
 b) Honda
 c) ValueError
 d) TypeError
 
 80. What will be the output of the following JavaScript code?
-	&lt;script&gt;
-	try{
+<script>
+try{
     const cars = {  
-    company: 'Honda'
+        company: 'Honda'
     };  
+    
     Object.seal(cars);
     delete cars.company;
     document.write(cars.company);  
-	}
-	catch (err){
+}
+catch (err){
     document.write(err.message);
-	}
-	&lt;/script&gt;
+}
+</script>
 a) undefined
 *b) Honda
 c) ValueError
 d) TypeError
 
 81. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
     let x = "10";
     let y = + x;
+    
     document.write(typeof y);
-	&lt;/script&gt;
+</script>
 a) string
 b) object
 c) undefined
 *d) number
 
 82. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
     let x = 10;
+    
     document.write(typeof x, " , ", typeof String(x));
-	&lt;/script&gt;
+</script>
 *a) number , string
 b) number , number
 c) object , string
 d) object , object
 
 83. What will be the output of the following JavaScript code?
-	&lt;script&gt;
+<script>
     let x = 10;
+    
     document.write(x, " , ", toString(x));
-	&lt;/script&gt;
+</script>
 a) 10 , 10
 b) 10 , undefined
 *c) 10 , [object Undefined]
