@@ -1,0 +1,179 @@
+1. Bootstrap directory in Laravel is used to: 
+*a) Initialize a Laraval application
+b) Call laravel library functions
+c) Load laravel classes and models
+d) Load the configuration files
+
+2. How to create a controller in laravel by cmd?
+a) php artisan make:controller generate
+b) php artisan make: generate controller contoller_name
+*c) php artisan make:controller –plain
+d) php artisan make:request controller_name create
+
+3. Interpolation of variable in laravel done using
+*a) {{}}
+b) compact
+c) helpers
+d) None
+
+4. Which command is used to start laravel server?
+a) php artisan project_name
+b) artisan start-server
+*c) php artisan serve
+d) php artisan start php
+
+5. Which one Laravel command line interface?
+a) Composer
+*b) Php artisan
+c) Git
+d) CLI
+
+6. Why does Laravel use the Blade Template Engine?
+a) As a template
+b) To simplify programming
+*c) For the view in MVC
+d) For fun
+
+7. View files in Laravel end in________–
+*a) .blade.php
+b) .vue
+c) .blade
+d) .php
+
+8. Which of the following function in Laravel checks that the desired table is exists in the database or not?
+a) hashTable()
+*b) hasTab()
+c) hasTable()
+d) None
+
+9. What is Laravel?
+a) Programming language
+*b) PHP framework
+c) Code generator
+d) none of the above
+
+10. Where do we need to set database connection in Laravel?
+a) Config.php
+b) Setting.php
+c) In seed files
+*d) .ENV file
+
+11. Where is the routing file located in Laravel ?
+a) urls/
+*b) routes/
+c) vendors/
+d) app/Http/
+
+12. How to set a session data in Laravel?
+*a) $request->session()->put(‘key’, ‘value’);
+b) $request->db->session(‘key’, ‘value’);
+c) $request->session()->set(‘key’, ‘value’);
+d) none
+
+13. How to check current laravel version install your system?
+a) php artisan check –version
+b) php artisan make –version
+*c) php artisan –version
+d) none of the above
+
+14. For what do the .env is used?
+a) For running cron jobs
+*b) For setting environment variables
+c) For tracking vendors
+d) None of These
+
+15. How to get current action name in Laravel?
+a) request()->DB->getActionMethod()
+*b) request()->route()->getActionMethod()
+c) request()->getActionMethod()
+d) none of the above
+
+16. Which command is used to create migrations in Laravel?
+*a) php artisan make:migration create_users_table
+b) php artisan migration create_users_table
+c) php artisan make:migrate create_users_table
+d) none
+
+17. What does ORM stands for in laravel?
+a) object-related Modifier
+*b) overloaded-relational Mapping
+c) object-Rotational Mechanisim
+d) object-relational Mapping
+
+18. Composer is a tool for ______ in PHP.
+a) Configuration
+*b) Dependency management
+c) Interpolation
+d) None of the above
+
+19. Which class is used in Laravel to handle exceptions?
+a) App\Exception\Handler
+*b) App\Exceptions\Handler
+c) App\Exceptions\Handle
+d) None of above
+
+20. When was Laravel first released?
+*a) June 2011
+b) June 2007
+c) June 2009
+d) None
+
+21. After running “artisan down”, The project will show the maintenance page. What would be HTTP Status return Code?
+a) 298
+*b) 503
+c) 400
+d) 254
+
+22. Where are all the Laravel Models stored at ?
+a) Inside Laravel database
+b) Within a server
+*c) Main app directory
+d) None of the above
+
+23. Which of the following methods are used in Database Migrations classes?
+a) run() and delete()
+b) save() and update()
+c) execute() and rollback()
+*d) up() and down()
+
+24. Who developed Laravel?
+a) James Gosling
+b) Rasmus Lerdorf
+*c) Taylor Otwell
+d) Guido van Rossum
+
+25. What is the purpose of Laravel Blade Template Engine?
+a) Make things harder
+b) Increase workload for students
+c) Beautify Laravel
+*d) Makes writing syntax easy and readable
+
+26. What is the purpose of learning Web Programming?
+a) To install computer programs
+b) To create computer parts
+c) To design the computer outlook
+*d) To talk to computers
+
+27. The vendor directory contains
+a) Assets
+b) Laravel Framework code
+*c) Third-party code
+d) Configuration files
+
+28. What type of way does Laravel use to get data from a database ?
+*a) Eloquent ORM and Query Builder
+b) Eloquent ORM
+c) Query Builder
+d) None of the above
+
+29. Which one of the following command is used to create middleware in Laravel?
+*a) php artisan make: middleware
+b) php arti make: middleware
+c) php artisan: middleware
+d) none of the above
+
+30. What is Node JS?
+a) Different version of the normal JavaScript
+b) Special type of JavaScript language
+*c) JavaScript runtime environment that executes JavaScript code
+d) None

@@ -1,0 +1,119 @@
+1. Who Created Laravel?
+a) Margon Stan
+*b) Taylor Otwell
+c) Samsy Twig
+d) None of these
+
+2. What is the use of .env file in Laravel?
+*a) Setting Up local Environment variable
+b) Optimization
+c) Hosting
+d) None of these
+
+3. Command to start Laravel Application?
+a) php artisan new
+b) php artisan
+c) php artisan start
+*d) php artisan serve
+
+4. Command to install laravel project?
+*a) composer create-project laravel/laravel myproject
+b) composer new-project laravel/laravel myproject
+c) composer create-project new laravel/laravel myproject
+d) None of these
+
+5. By default laravel project runs on which PORT?
+a) 3000
+b) 5000
+*c) 8000
+d) 7000
+
+6. CLI Command to migrate in Laravel project?
+a) php artisan create migration
+b) php artisan migrate
+*c) php artisan serve
+d) None of the above
+
+7. Command to get the route list in Laravel?
+a) php artisan list
+*b) php artisan route:list
+c) php artisan route
+d) php artisan list:all
+
+8. CLI Command to create controller in laravel?
+*a) php artisan make:controller Mycontroller
+b) php artisan create:controller Mycontroller
+c) php artisan controller Mycontroller
+d) None of these
+
+9. Command to make migration in laravel?
+a) php artisan migration table
+*b) php artisan make:migration create_tags_table
+c) php artisan make-migration digit
+d) None of these
+
+10. Command to check the status of migration in laravel application?
+a) php artisan migration status
+b) php artisan status
+*c) php artisan migrate:status
+d) None of these
+
+11. Command to roll back migration operation in laravel?
+a) php artisan rollback
+b) php artisan migration:rollback
+*c) php artisan migrate:rollback
+d) php artisan rollback migration
+
+12. Command to rollback all migrations operations?
+*a) php artisan migrate:reset
+b) php artisan migration:reset
+c) php artisan reset
+d) php artisan reset:migration
+
+13. In which file we can set database connections?
+a) database.php file
+b) config.php file
+*c) .env file
+d) None of these
+
+14. Can laravel application support caching?
+*a) Yes
+b) No
+c) Can't Say
+d) None of these
+
+15. What is laravel?
+*a) Framework
+b) Programming Language
+c) Code Editor
+d) None of these
+
+16. Command to check the current version of the Laravel Framwork?
+a) php artisan main --version
+b) php artisan --version status
+c) php artisan check --version
+*d) php artisan --version
+
+17. Command to create middleware in laravel application?
+*a) php artisan make:middleware Mymiddleware
+b) php artisan middleware Mymiddleware
+c) php artisan create:middleware Mymiddleware
+d) php artisan middleware:make Mymiddleware
+
+18. What are the ways to get the data from database in laravel?
+a) Query Builder
+b) Eloquent ORM
+*c) Both A & B
+d) None of these
+
+19. Full form of ORM in laravel?
+*a) Object Relation Mapping
+b) Object Relation Master
+c) Object Relation Manager
+d) None of these
+
+20. Laravel is based on which design pattern?
+a) Singleton Design Pattern
+*b) MVC(Model View Controller) Pattern
+c) Factory Design pattern
+d) Observer pattern
