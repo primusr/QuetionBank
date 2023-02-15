@@ -11,10 +11,11 @@ c) Functional programming
 d) All of the above
 
 3. Which of the following statement(s) is true about the JavaScript?
+<code>
 *a) It is a scripting language used to make the website interactive
 b) It is an advanced version of Java for Desktop and Mobile application development
 c) It is a markup language of Java to develop the webpages
-d) All of the above
+d) All of the above</code>
 
 4. In which HTML element, we put the JavaScript code?
 a) &lt;javascript&gt;...&lt;/javascript&gt;
