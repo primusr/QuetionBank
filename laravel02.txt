@@ -1,3 +1,5 @@
+Quiz Title: Laravel Part 02
+
 1. Bootstrap directory in Laravel is used to: 
 *a) Initialize a Laraval application
 b) Call laravel library functions
