@@ -80,7 +80,7 @@ d) window.alertContent()
 
 14. Which is the correct JavaScript statement to display &quot;Hello Boss!&quot; into an alert box?
 a) alert(&quot;Hello Boss!&quot;);
-b) alert(&#39;Hello Boss!&#39;);#
+b) alert(&#39;Hello Boss!&#39;);
 c) alert(Text:&#39;Hello Boss!&#39;);
 *d) Both A. and B.
 
@@ -177,7 +177,7 @@ b) No
 	var name = &quot;Alex&quot; + &quot; &quot; + &quot;Alvin&quot;;<br>
 	document.getElementById(&quot;demo&quot;).innerHTML = name;<br>
 	&lt;/script &gt;
-*a) lex Alvin
+*a) Alex Alvin
 b) AlexAlvin
 c) TypeError
 d) ValueError
@@ -235,7 +235,7 @@ d) ValueError
 	var x = 10 + 20 * 5;<br>
 	document.getElementById(&quot;tes&quot;).innerHTML = x;<br>
 	&lt;/script &gt;
-*a) 10
+*a) 110
 b) 150
 c) TypeError
 d) ValueError
