@@ -1,4 +1,4 @@
-Quiz Title: JavaScript MCQ
+Quiz Title: Midterm Exam
 
 1. JavaScript is the programming language of the _____.
 a) Desktop
